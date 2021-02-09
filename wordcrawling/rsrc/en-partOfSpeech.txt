@@ -1,0 +1,49 @@
+adfix
+adjective
+adnoun
+adverb
+article
+auxiliary verb
+cardinal number
+collective numeral
+conjunction
+coverb
+demonstrative determiner
+demonstrative pronoun
+determinative
+determiner
+gerund
+indefinite pronoun
+infinitive
+interjection
+interrogative pronoun
+intransitive verb
+multiplicative number
+multiplicative numeral
+noun
+number
+numeral
+ordinal
+ordinal number
+part of speech
+participle
+particle
+personal pronoun
+phrasal preposition
+possessive adjective
+possessive determiner
+possessive pronoun
+postposition
+preposition
+preverb
+pronoun
+quasi-adjective
+reciprocal pronoun
+reflexive pronoun
+relative pronoun
+speech disfluency
+substantive
+transitive
+transitive verb
+verb
+verbal noun

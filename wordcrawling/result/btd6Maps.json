@@ -1,0 +1,378 @@
+[
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "16",
+        "Name": "Monkey Meadow",
+        "Description": "A grassy map. Similar to Monkey Lane from BTD5. This map contains no items blocking sight and no water, making it the simplest map in the game. In the 5.0 update, monkeys can be placed on the pumpkins at the top left and top right of the map despite the pumpkins being solid objects.",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Meadow"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "15",
+        "Name": "Tree Stump",
+        "Description": "A map around a tree stump. Bloons circle around the stump, then make a bigger circle before exiting. The tree stump will block the sight of towers, but towers on the stump have no restrictions. Similar to Park Path from BTD5. The axe in the log can be tapped to make it wiggle and the mushrooms can be tapped to make it glow and wiggle.",
+        "Link": "https://bloons.fandom.com/wiki/Tree_Stump"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "14",
+        "Name": "Town Center",
+        "Description": "A grassy map with a Bloons Monkey City vibe. Water lines the top left of the map, but is often too small and too far from the track to be useful unless using the Advanced Intel upgrade for the Monkey Sub. An additional option is to use Merchantmen as they generate money regardless of sight. There are crates near the building on the right that can be used for water towers before update 2.0.0. The buildings and the windmill are sight obstacles. This is the map featured in the tutorial of the game.",
+        "Link": "https://bloons.fandom.com/wiki/Town_Center"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "13",
+        "Name": "Lotus Island",
+        "Description": "An island in the middle of the sea, which has a few lotus plants and the remains of some sort of stone building. The Bloons travel around the perimeter of the island.",
+        "Link": "https://bloons.fandom.com/wiki/Lotus_Island"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "12",
+        "Name": "Candy Falls",
+        "Description": "A candy-filled map with a chocolate river flowing down the middle where water monkeys can be placed. The map is based on Willy Wonka's Chocolate Factory.",
+        "Link": "https://bloons.fandom.com/wiki/Candy_Falls"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "11",
+        "Name": "Winter Park",
+        "Description": "A snow-filled park area with a small fountain in the middle where water monkeys can be placed.",
+        "Link": "https://bloons.fandom.com/wiki/Winter_Park"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "10",
+        "Name": "Carved",
+        "Description": "A track that resembles a Jack-O-Lantern.",
+        "Link": "https://bloons.fandom.com/wiki/Carved"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "09",
+        "Name": "Park Path",
+        "Description": "A clean, nice environmental, long and curvy track with water in a stream, returning from BTD 5. Sort of resembles a spiral.",
+        "Link": "https://bloons.fandom.com/wiki/Park_Path"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "08",
+        "Name": "Alpine Run",
+        "Description": "A snowy map based off of a ski lift.",
+        "Link": "https://bloons.fandom.com/wiki/Alpine_Run"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "07",
+        "Name": "Frozen Over",
+        "Description": "An icy themed map kind of resembling Ice Flow from BTD5 . The map features many triangles with lots of room for water towers.",
+        "Link": "https://bloons.fandom.com/wiki/Frozen_Over"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "06",
+        "Name": "In the Loop",
+        "Description": "An autumn-themed map. Bloons follow a square that has loops on 3 of its corners. There is water in the upper right loop. The trees and tools on this map can block a monkey's line of sight.",
+        "Link": "https://bloons.fandom.com/wiki/In_the_Loop"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "05",
+        "Name": "Cubism",
+        "Description": "An abstract art map. Bloons go around the triangles and quadrilaterals. There is water in the lower right corner and in one of the triangles, allowing for water towers to be placed on this map. This map features two storm drains that do not affect gameplay.",
+        "Link": "https://bloons.fandom.com/wiki/Cubism"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "04",
+        "Name": "Four Circles",
+        "Description": "A sprint track map. Bloons go around four circles. The top left and bottom right circles are each half water. This map uniquely features a timer near the bottom right that counts minutes and seconds. It blocks monkeys' lines of sight as well.",
+        "Link": "https://bloons.fandom.com/wiki/Four_Circles"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "03",
+        "Name": "Hedge",
+        "Description": "A grassy garden map. Bloons go around the hedges. There is a statue in the middle of a Dart Monkey. Hedges along the track block monkeys' lines of sight, and cannot be removed. If the Dart Monkey statue is tapped, it rotates 90 degrees.",
+        "Link": "https://bloons.fandom.com/wiki/Hedge"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "02",
+        "Name": "End of the Road",
+        "Description": "A desert road map. Bloons follow a horizontal road with two curves and then go back where they came from. There is water near the end of the road, allowing for water towers to be placed. The cacti on this map can also block monkeys' lines of sight although this doesn't practically affect gameplay.",
+        "Link": "https://bloons.fandom.com/wiki/End_of_the_Road"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "1: Beginner",
+        "MapIndex": "01",
+        "Name": "Logs",
+        "Description": "A swamp-like map. The bloons follow a vertical checkerboard path and then follow a horizontal one, going under numerous logs. The middle square of the checkerboard-like pattern is water instead of land, allowing water towers to be used on this map. Monkeys cannot see through the logs on this map.",
+        "Link": "https://bloons.fandom.com/wiki/Logs"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "13",
+        "Name": "Bazaar",
+        "Description": "The second community-designed map added to the game, and takes place at a desert marketplace. Many line of sight obstacles such as the trees and central marketplaces appear on the map. Bloons come from alternating lanes from opposite sides.",
+        "Link": "https://bloons.fandom.com/wiki/Bazaar"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "12",
+        "Name": "Adora's Temple",
+        "Description": "A map that takes place on a temple with several fountains, multiple entrances and exits for Bloons, and layered steps to place towers on.",
+        "Link": "https://bloons.fandom.com/wiki/Adora%27s_Temple"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "11",
+        "Name": "Spring Spring",
+        "Description": "A spring-themed map that features a center island with water surrounding. Bloons travel on two paths, with both paths having the same entrance and exit. There are no sight blockers in a practical sense (Rocks around the edge block sight, but not enough to matter).",
+        "Link": "https://bloons.fandom.com/wiki/Spring_Spring"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "10",
+        "Name": "Kartsndarts",
+        "Description": "A map that resembles a race track. The main track starts from the left, underneath the tunnel, around the second loop anticlockwise, around the first loop clockwise, above the tunnel and out through the right exit. There are two sets of hay bales and tires that lie in each circle, these can be removed for $500 each.",
+        "Link": "https://bloons.fandom.com/wiki/Kartsndarts"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "09",
+        "Name": "Moon Landing",
+        "Description": "A map the takes place on the moon with three craters that most towers can't attack bloons white they are in it, making Mortar Monkeys ideal.",
+        "Link": "https://bloons.fandom.com/wiki/Moon_Landing"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "08",
+        "Name": "Haunted",
+        "Description": "A map that resembles the outside of a haunted house. Bloons come towards the house and come back to the entrance (resembling trick-or-treating). There are two trees next to the house that can be removed for $500 each.",
+        "Link": "https://bloons.fandom.com/wiki/Haunted"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "07",
+        "Name": "Downstream",
+        "Description": "A map that takes place in a meadow, similar to Monkey Meadow. The bloons take two loops around the track. There is a large stream in the middle of the screen, hence the name. You cannot place towers in the middle of the loops until you clear the rock debris (each for $350). Added in 4.0 update.",
+        "Link": "https://bloons.fandom.com/wiki/Downstream_(BTD6)"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "06",
+        "Name": "Firing Range",
+        "Description": "A map that takes place in a firing range, hence the name. The bloons will go around the top of the map and come down both sides to the exit. Towers can only be placed at the bottom of the map with the tread tracks other than the small wooden planks and the water on the right side. There is a watchtower in the middle that blocks the vision of monkeys, but it can be removed for $1,000, along with a Ground Zero Bomber cinematic animation. Added in 2.0 update.",
+        "Link": "https://bloons.fandom.com/wiki/Firing_Range"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "05",
+        "Name": "Cracked",
+        "Description": "A ruined land map. This map features a rock that can be removed for $1,000 but otherwise blocks a monkey's vision. Underneath the rock is a small body of water. Oddly, this map features a sign that can block towers from being placed on it but does not block the monkey's vision.",
+        "Link": "https://bloons.fandom.com/wiki/Cracked"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "04",
+        "Name": "Streambed",
+        "Description": "A mountain/sediment bay map with bones. There is a good-sized body of water near the bottom of the map. A skull in the middle of the map blocks the sight of monkeys but can be removed for $1,000.",
+        "Link": "https://bloons.fandom.com/wiki/Streambed"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "03",
+        "Name": "Chutes",
+        "Description": "A temple map. Bloons come out starting on the left path, then alternating. There are two monkey statues in the middle, which you can remove for $350 each. Otherwise, they can block the sight of monkeys.",
+        "Link": "https://bloons.fandom.com/wiki/Chutes"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "02",
+        "Name": "Rake",
+        "Description": "A cherry blossom/Japanese sand garden map. Bloons come out of two sides at once and leave in two places. This map contains a small body of water. There is also a statue that can be removed for $1,000, which will block the monkey's sight if not removed. Before the 4.0 update, it used to cost $350 to remove the statue. Oddly, the rake on the top left of the map does not block line of sight but does not count as viable land for placing towers.",
+        "Link": "https://bloons.fandom.com/wiki/Rake"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "2: Intermediate",
+        "MapIndex": "01",
+        "Name": "Spice Islands",
+        "Description": "An island/archipelago map, consisting mostly of water. The palm trees can block a monkey's line of sight but can be removed for $1,000. This map was featured in a teaser to Bloons TD 6.",
+        "Link": "https://bloons.fandom.com/wiki/Spice_Islands"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "3: Advanced",
+        "MapIndex": "10",
+        "Name": "Geared",
+        "Description": "The first community-made map added to the game, it is a gear style map that monkeys spin around on a rotating gear that rotates every round. There are no obstacles on the map. Bloons go around the outer half of the gear.",
+        "Link": "https://bloons.fandom.com/wiki/Geared"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "3: Advanced",
+        "MapIndex": "09",
+        "Name": "Spillway",
+        "Description": "A toxic waste dump, filled with waste. Four walls can be removed for $2,000 each, which block water towers from shooting in the middle.",
+        "Link": "https://bloons.fandom.com/wiki/Spillway"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "3: Advanced",
+        "MapIndex": "08",
+        "Name": "Cargo",
+        "Description": "A car filled lot of pavement with a ton of boats and water nearby to transfer cargo. After round 39, a new path opens up, which only M.O.A.B Class Bloons take, and two trucks that block vision can be removed for $500 each.",
+        "Link": "https://bloons.fandom.com/wiki/Cargo"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "3: Advanced",
+        "MapIndex": "07",
+        "Name": "Pat's Pond",
+        "Description": "A swamp map with a large body of water in the center. Bloons travel on two paths, with the entrance of one being the exit of the other and vice versa. Two sets of trees and rocks can be removed for $500 each.",
+        "Link": "https://bloons.fandom.com/wiki/Pat%27s_Pond"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "3: Advanced",
+        "MapIndex": "06",
+        "Name": "Peninsula",
+        "Description": "A rocky map that has water on three sides with few places to place towers. There are 3 rocks with debris on them, which can be cleaned of debris for $500 each. A large hill is also present that blocks sight. Towers can be placed on patches of grass.",
+        "Link": "https://bloons.fandom.com/wiki/Peninsula"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "3: Advanced",
+        "MapIndex": "05",
+        "Name": "High Finance",
+        "Description": "A city/construction map. Bloons will move first in an S-shape and then a U-shape around blocks of the construction area. A small bridge is present in the middle that allows water placement and early placement of towers similar to Cornfield. Each on the individual construction areas counts as sight blockers however they can be built up and towers may be placed on top to see over the other unbuilt areas. The cost to build each block ranges between $350 to $1,500. To build everything on this map it costs $12,550. Added in the 3.0 update.",
+        "Link": "https://bloons.fandom.com/wiki/High_Finance"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "3: Advanced",
+        "MapIndex": "04",
+        "Name": "Another Brick",
+        "Description": "A brick wall map. Bloons go around a wall, which counts as a sight blocker. The entire left side is off-limits for placing, but it is possible to remove each palette of bricks for $1,000 each to free up space for Banana Farms, Aces, Heli Pilots, Temples, Alchemists or anything that can bypass the line of sight. Small water puddles are present.",
+        "Link": "https://bloons.fandom.com/wiki/Anotherbrick"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "3: Advanced",
+        "MapIndex": "03",
+        "Name": "Off the Coast",
+        "Description": "A beach map. Bloons come from the water at the bottom to the beach and then go back to the water. This map features a wrecked ship in the water that blocks water towers from being placed on it, and cannot be removed. Land towers, however, can be placed on certain parts of the wreck, such as on the crow's nest and the bow.",
+        "Link": "https://bloons.fandom.com/wiki/Off_the_Coast"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "3: Advanced",
+        "MapIndex": "02",
+        "Name": "Cornfield",
+        "Description": "A cornfield map. At the start, the only area where the player can place towers is a small square in the middle. The player may uncover more land by paying to remove the cornfields. The cost to remove a cornfield ranges from $350 to $1,500. It is possible to place towers within the dirt separating the cornfields if positioned correctly.",
+        "Link": "https://bloons.fandom.com/wiki/Cornfield"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "3: Advanced",
+        "MapIndex": "01",
+        "Name": "Underground",
+        "Description": "A cave-styled map. The bloons go around two rounded interlocking railroads. There are no objects that block the monkey's vision in a practical sense. (Rocks along the edges block vision, although this doesn't affect gameplay significantly.)",
+        "Link": "https://bloons.fandom.com/wiki/Underground"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "4: Expert",
+        "MapIndex": "08",
+        "Name": "Flooded Valley",
+        "Description": "A map set at a dam. The track appears as though it is single-lane, but instead bloons come from both sides simultaneously and exit from opposite ends. The left-hand side is land that is heavily blocked by the extremely tall dam, while the right-hand side purely consists of water.",
+        "Link": "https://bloons.fandom.com/wiki/Flooded_Valley"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "4: Expert",
+        "MapIndex": "07",
+        "Name": "Infernal",
+        "Description": "A map set deep within a volcano. The track consists of two paths made of many small floating stones that interweave in the middle of the map; the entrances of these paths are on the left side of the screen, and the exits are on the right side. There are some small stone islands, two of which have water, on which you can place towers.",
+        "Link": "https://bloons.fandom.com/wiki/Infernal"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "4: Expert",
+        "MapIndex": "06",
+        "Name": "Bloody Puddles",
+        "Description": "A more difficult version of Muddy Puddles, featuring five paths instead of four to make it more difficult to deter the Bloons. There is also a broken-down jeep stuck in the mud, which can be removed for $1000. However, paying to remove it instead triggers a gag where the Chinook that shows up to remove the jeep breaks down and falls, taking up even more space. After this, the Chinook, jeep, and nearby stones can all be removed for a single purchase of $500.",
+        "Link": "https://bloons.fandom.com/wiki/Bloody_Puddles"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "4: Expert",
+        "MapIndex": "05",
+        "Name": "Workshop",
+        "Description": "A map based in a factory setting. Many tables block vision, and the path is very short. After round 39, a new path opens up, which only M.O.A.B Class Bloons take. Two machines can be activated for free the first time you use them, with one making the main path longer and the other slowing bloons, and will deactivate after a certain time. However, reactivating them costs a steadily increasing price.",
+        "Link": "https://bloons.fandom.com/wiki/Workshop_(BTD6)"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "4: Expert",
+        "MapIndex": "04",
+        "Name": "Quad",
+        "Description": "A grassy map with four entrances/exits for bloons. Four floral trusses blocking near each entrance/exit can be removed for $1500 each. A pond in the middle allows for the placement of water towers.",
+        "Link": "https://bloons.fandom.com/wiki/Quad"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "4: Expert",
+        "MapIndex": "03",
+        "Name": "Dark Castle",
+        "Description": "A castle themed map kind of resembling the map Siege from BTD5. There are four entrances and one exit. Towers can be placed on top of the castle in a small place, but other places will block their sight. There are trees blocking sight of incoming bloons until 3/4 of the map, but these three trees can be removed for $1000.",
+        "Link": "https://bloons.fandom.com/wiki/Dark_Castle"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "4: Expert",
+        "MapIndex": "02",
+        "Name": "Muddy Puddles",
+        "Description": "A muddy field map. Bloons come out of the four squiggling paths, alternating each round. Puddles are present between some of the paths allowing Buccaneers and Subs to be placed.",
+        "Link": "https://bloons.fandom.com/wiki/Muddy_Puddles"
+    },
+    {
+        "Type": "Maps",
+        "Difficulty": "4: Expert",
+        "MapIndex": "01",
+        "Name": "#Ouch",
+        "Description": "A city or road map. Bloons come out four ways and leave four ways, all at the same time. The water in the middle can be removed for $1,000, but cannot be removed if towers are placed in the water. This map is similar to the Extreme Map Main Street featured in BTD5, albeit with more accessible water and another set of paths. This is also very similar to Phase Crystal in Bloons Monkey City.",
+        "Link": "https://bloons.fandom.com/wiki/Ouch"
+    }
+]

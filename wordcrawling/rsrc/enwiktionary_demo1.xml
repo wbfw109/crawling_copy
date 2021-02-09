@@ -1,0 +1,1518 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wiktionary</sitename>
+    <dbname>enwiktionary</dbname>
+    <base>https://en.wiktionary.org/wiki/Wiktionary:Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.28</generator>
+    <case>case-sensitive</case>
+    <namespaces>
+      <namespace key="-2" case="case-sensitive">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="case-sensitive" />
+      <namespace key="1" case="case-sensitive">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="case-sensitive">Wiktionary</namespace>
+      <namespace key="5" case="case-sensitive">Wiktionary talk</namespace>
+      <namespace key="6" case="case-sensitive">File</namespace>
+      <namespace key="7" case="case-sensitive">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="case-sensitive">Template</namespace>
+      <namespace key="11" case="case-sensitive">Template talk</namespace>
+      <namespace key="12" case="case-sensitive">Help</namespace>
+      <namespace key="13" case="case-sensitive">Help talk</namespace>
+      <namespace key="14" case="case-sensitive">Category</namespace>
+      <namespace key="15" case="case-sensitive">Category talk</namespace>
+      <namespace key="90" case="case-sensitive">Thread</namespace>
+      <namespace key="91" case="case-sensitive">Thread talk</namespace>
+      <namespace key="92" case="case-sensitive">Summary</namespace>
+      <namespace key="93" case="case-sensitive">Summary talk</namespace>
+      <namespace key="100" case="case-sensitive">Appendix</namespace>
+      <namespace key="101" case="case-sensitive">Appendix talk</namespace>
+      <namespace key="102" case="case-sensitive">Concordance</namespace>
+      <namespace key="103" case="case-sensitive">Concordance talk</namespace>
+      <namespace key="104" case="case-sensitive">Index</namespace>
+      <namespace key="105" case="case-sensitive">Index talk</namespace>
+      <namespace key="106" case="case-sensitive">Rhymes</namespace>
+      <namespace key="107" case="case-sensitive">Rhymes talk</namespace>
+      <namespace key="108" case="case-sensitive">Transwiki</namespace>
+      <namespace key="109" case="case-sensitive">Transwiki talk</namespace>
+      <namespace key="110" case="case-sensitive">Thesaurus</namespace>
+      <namespace key="111" case="case-sensitive">Thesaurus talk</namespace>
+      <namespace key="114" case="case-sensitive">Citations</namespace>
+      <namespace key="115" case="case-sensitive">Citations talk</namespace>
+      <namespace key="116" case="case-sensitive">Sign gloss</namespace>
+      <namespace key="117" case="case-sensitive">Sign gloss talk</namespace>
+      <namespace key="118" case="case-sensitive">Reconstruction</namespace>
+      <namespace key="119" case="case-sensitive">Reconstruction talk</namespace>
+      <namespace key="828" case="case-sensitive">Module</namespace>
+      <namespace key="829" case="case-sensitive">Module talk</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>pie</title>
+    <ns>0</ns>
+    <id>60</id>
+    <revision>
+      <id>59214809</id>
+      <parentid>59013739</parentid>
+      <timestamp>2020-04-25T23:26:14Z</timestamp>
+      <contributor>
+        <username>Kiwima</username>
+        <id>2096588</id>
+      </contributor>
+      <comment>/* RFV-failed */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14649" xml:space="preserve">{{also|Appendix:Variations of &quot;pie&quot;}}
+==English==
+{{slim-wikipedia|Pie (disambiguation)}}
+[[Image:Lemon Meringue Pie 1.jpg|thumb|Unsliced lemon meringue pie.]]
+
+===Pronunciation===
+* {{a|US|UK}} {{enPR|pī}}, {{IPA|en|/paɪ/}}
+* {{audio|en|en-us-pie.ogg|Audio (US)}}
+* {{audio|en|en-au-pie.ogg|Audio (AU)}}
+* {{homophones|en|pi|π}}
+* {{rhymes|en|aɪ}}
+
+===Etymology 1===
+From {{inh|en|enm|pye}}, {{m|enm|pie}}, probably from {{bor|en|la|pīca||magpie, jay}} (from the idea of the many ingredients put into pies likened to the tendency of magpies to bring a variety of objects back to their nests).
+
+====Noun====
+{{en-noun|~}}
+
+# A type of [[pastry]] that consists of an outer crust and a [[filling]].
+#: {{ux|en|The family had steak and kidney '''pie''' for dinner and cherry '''pie''' for dessert.}}
+# Any of various other, non-pastry dishes that maintain the general concept of a shell with a filling.
+#: {{ux|en|Shepherd's '''pie''' is made of mince covered with mashed potato.}}
+# {{lb|en|Northeastern US}} A [[pizza]].
+# {{lb|en|figuratively}} The [[whole]] of a wealth or [[resource]], to be divided in parts.
+#* {{quote-journal|en|passage=It is easier to get along when everyone, more or less, is getting ahead. But when the '''pie''' is shrinking, social groups are more likely to turn on each other.|author=[[w:Evan Thomas|Evan Thomas]]|url=http://www.newsweek.com/2010/12/04/the-deepest-dangers-facing-the-united-states.html|date=2010-12-04|title=Why It’s Time to Worry|work=Newsweek}}
+# {{lb|en|letterpress}} A disorderly mess of spilt [[type]].
+# {{lb|en|cricket}} An especially badly [[bowl]]ed ball.
+# A [[pie chart]].
+#* {{quote-book|en|year=1986|author=Carolyn Sorensen, Henry J. Stock|title=Department of Education Computer Graphics Guide|page=8|passage='''Pies''' are best for comparing the components of only one or two totals.}}
+# {{lb|en|slang}} The [[vulva]].
+#* {{quote-book|en|year=1981|author=William Kotzwinkle|title=Jack in the Box|passage=&quot;Yeah, take it off!&quot; &quot;SHOW US YOUR '''PIE'''!&quot; The brunette opened the catch on her G-string and let the sequinned cloth slip down, teasing them with it.}}
+#* {{quote-book|en|year=2010|author=W. A. Moltinghorne|title=Magnolia Park|page=238|passage=Yeah, some guys like to eat the old hairy '''pie'''. Women, too, or so I've heard.}}
+
+=====Derived terms=====
+{{der3|en|apple pie|blueberry pie|cherry pie|cottage pie|cream pie|cutie pie|easy as pie|have one's fingers in many pies|humble pie|meat pie|mince pie|mud pie|party pie|pecan pie|pie bird|pie chart|pie chimney|pie-eater|pie-eyed|pie-faced|pie floater|pie funnel|piehole|pieing|pie in the sky|piemaker|piet|pie vent|pie whistle|pork pie|pot pie|shepherd's pie|steak and kidney pie|sweet as pie|who ate all the pies}}
+
+=====Translations=====
+{{trans-top|type of pastry}}
+* Afrikaans: {{t|af|pastei}}
+* Albanian: {{t+|sq|byrek}}
+* Arabic: {{t|ar|فَطِيرَة|f}}
+* Armenian: {{t+|hy|կարկանդակ}}
+* Aromanian: {{t|rup|plãtsintã|f}}
+* Azerbaijani: {{t|az|piroq}}
+* Bashkir: {{t|ba|бәлеш|sc=Cyrl}}
+* Belarusian: {{t|be|піро́г|m}}
+* Bengali: {{t|bn|পাই}}
+* Bulgarian: {{t+|bg|пиро́г|m}}
+* Catalan: {{t+|ca|pastís|m}}
+* Chinese:
+*: Cantonese: {{t|yue|批|tr=pai1|sc=Hani}}
+*: Mandarin: {{t+|cmn|餡餅|sc=Hani}}, {{t+|cmn|馅饼|tr=xiànbǐng|sc=Hani}}, {{t+|cmn|排|tr=pái|sc=Hani}}, {{t+|cmn|派|tr=pài|sc=Hani}}
+* Cornish: {{t|kw|hogen}}, {{qualifier|dialectal}} {{t|kw|hoggan}}
+* Czech: {{t+|cs|koláč|m}}
+* Danish: {{t|da|tærte|c}}
+* Dutch: {{t+|nl|taart|f}}, {{t+|nl|pastei|f}}
+* Esperanto: {{t|eo|torto}}
+* Estonian: {{t+|et|pirukas}}
+* Finnish: {{t+|fi|piirakka}}, {{t+|fi|piiras}}, {{t+|fi|torttu}}
+* French: {{t+|fr|tarte|f}}
+* Galician: {{t+|gl|torta|f}}
+* German: {{t+|de|Torte|f}}
+* Greek: {{t+|el|πίτα|f}}
+*: Ancient: {{t|grc|ἐρείκιον|n}}, {{t|grc|φυστή|n}}
+* Hebrew: {{t+|he|פַּשְׁטִידָה|f|tr=pashtidá}}, {{t+|he|פַּאי|m|tr=pái}} {{qualifier|transliteration from English}},  {{t+|he|תַּמְלִיא|m|tr=tamlí}} {{qualifier|neoligism}}
+* Hungarian: {{t+|hu|pite}}
+* Icelandic: {{t+|is|baka|f}}
+* Ido: {{t+|io|tarto}}
+* Indonesian: {{t+|id|kue pai}}
+* Irish: {{t|ga|pióg|f}}
+* Italian: {{t+|it|torta|f}}, {{t+|it|crostata|f}}
+* Japanese: {{t+|ja|パイ|tr=pai}}
+* Kalmyk: {{t|xal|бөрг|sc=Cyrl}}
+* Kazakh: {{t|kk|бәліш|sc=Cyrl}}, {{t|kk|пирог|sc=Cyrl}}
+* Korean: {{t+|ko|파이}}
+{{trans-mid}}
+* Kyrgyz: {{t+|ky|пирог|sc=Cyrl}}
+* Lao: {{t-needed|lo}}
+* Latin: {{t|la|crustum}}
+* Latvian: {{t+|lv|pīrāgs|m}}
+* Lithuanian: {{t|lt|pyragas|m}}
+* Macedonian: {{t|mk|пи́та|f}}, {{t|mk|ко́мад|m}}
+* Malay: {{t|ms|pai}}
+* Maltese: {{t|mt|torta|f}}
+* Mongolian: {{t+|mn|бялуу}}
+* Navajo: {{t|nv|biiʼ sitłéʼé}}, {{t|nv|masdéél}}
+* Norwegian:
+*: Bokmål: {{t+|nb|pai|m}}
+*: Nynorsk: {{t+|nn|pai|m}}
+* Persian: {{t+|fa|پای|tr=pây}}
+* Polish: {{t+|pl|ciasto|n}}
+* Portuguese: {{t+|pt|torta|f}}
+* Romanian: {{t+|ro|plăcintă|f}}
+* Russian: {{t+|ru|пиро́г|m}}, {{qualifier|small, Russian style}} {{t+|ru|пирожо́к|m}}, {{t+|ru|беля́ш|m|sc=Cyrl}}
+* Scottish Gaelic: {{t|gd|paidh}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|пита|f}}
+*: Roman: {{t+|sh|pita|f}}
+* Slovak: {{t+|sk|koláč|m}}, {{t|sk|piroh|m}}
+* Slovene: {{t+|sl|pita|f}}
+* Spanish: {{t+|es|pastel|m}}, {{t+|es|pay|m}}, {{t+|es|tarta|f}}
+* Swedish: {{t+|sv|paj|c}}
+* Tajik: {{t|tg|пирог}}, {{t|tg|санбӯса}}
+* Taos: {{t|twf|pòstaléna}}
+* Tatar: {{t+|tt|бәлеш}}
+* Thai: {{t+|th|พาย}}
+* Turkish: {{t+|tr|turta}}
+* Ukrainian: {{t|uk|пирі́г|m}}
+* Uzbek: {{t+|uz|pirog}}
+* Welsh: {{t|cy|pastai}}
+* West Frisian: {{t|fy|taart|c}}
+* Yiddish: {{t|yi|פּיראָג|m}}
+{{trans-bottom}}
+
+{{trans-top|nonpastry dish resembling a pie}}
+* Dutch: {{t+|nl|taart|f}}, {{t+|nl|pastei|f}}
+* Finnish: {{t+|fi|piirakka}}, {{t+|fi|piiras}}, {{t+|fi|pasteija}}
+* French: {{t+|fr|tourte|f}}
+* Greek: {{t+|el|πίτα|f}}
+{{trans-mid}}
+* Irish: {{t|ga|pióg|f}}
+* Italian: {{t+|it|pasticcio|m}}
+* Swedish: {{t+|sv|paj|c}}
+{{trans-bottom}}
+
+{{trans-see|pizza}}
+
+{{trans-top|whole of wealth or resource}}
+* Finnish: {{t+|fi|kakku}}
+* French: {{t+|fr|gâteau|m}}
+{{trans-mid}}
+* Greek: {{t+|el|πίτα|f}}
+{{trans-bottom}}
+
+{{trans-top|printing: disorderly mess of spilt type}}
+* Italian: {{t+|it|pasticcio|m}}, {{t+|it|confusione|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|cricket: especially badly bowled ball}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|pejorative: gluttonous person}}
+* Finnish: {{t|fi|rohmu}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|pie chart}}
+
+{{trans-top|slang: vulva}}
+* Finnish: {{t+|fi|ripsipiirakka}}, {{t+|fi|pipari}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Afrikaans: {{t-check|af|tert}}
+* Esperanto: {{t-check|eo|torto}}
+{{trans-mid}}
+* Romanian: {{t+check|ro|plăcintă|f}}
+{{trans-bottom}}
+
+=====See also=====
+* {{l|en|pastie}}
+* {{l|en|pasty}}
+
+====Verb====
+{{en-verb|d}}
+
+# {{lb|en|transitive}} To hit in the face with a pie, either for comic effect or as a means of protest (see also [[pieing]]).
+#: {{ux|en|I'd like to see someone '''pie''' the chairman of the board.}}
+# {{lb|en|transitive}} To go around (a corner) in a guarded manner.
+# {{lb|en|transitive}} (of printing types) To reduce to confusion; to jumble.
+#* {{quote-book|en|year=1943|author=Esther Forbes Hoskins|title=[[wikipedia:Johnny Tremain|Johnny Tremain]]|passage=The door of the [printing] shop was shattered. He went in. The presses were broken. The type pied.}}
+
+=====Translations=====
+{{trans-top|to hit in the face with a pie}}
+* Finnish: {{t+|fi|kakuttaa}}
+* French: {{t+|fr|entarter}}
+{{trans-mid}}
+* German: {{t|de|torten}}
+* Swedish: {{t+|sv|tårta}}
+{{trans-bottom}}
+
+{{trans-top|to go around (a corner) in a guarded manner}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Etymology 2===
+From {{inh|en|enm|pye}}, from {{der|en|fro|pie}}, from {{der|en|la|pīca}}, feminine of {{m|la|pīcus||woodpecker}}, from {{der|en|ine-pro|*(s)peyk-||woodpecker; magpie}}. Cognate with {{m|en|speight}}.
+
+====Noun====
+{{en-noun}}
+
+# {{senseid|en|magpie}} {{lb|en|obsolete}} [[magpie|Magpie]].
+
+=====Derived terms=====
+* {{l|en|piebald}}
+
+===Etymology 3===
+Borrowed from {{bor|en|hi|पाई||quarter}}, from {{der|en|sa|पादिका}}.
+
+====Noun====
+{{en-noun|pie|pies}}
+
+# {{lb|en|historical}} The smallest unit of currency in South Asia, equivalent to {{frac|1|192}} of a [[rupee]] or {{frac|1|12}} of an [[anna]].
+#* {{quote-book|en|year=1888|author=Rudyard Kipling|chapter=The Strange Ride of Morrowbie Jukes|title=The Phantom ’Rickshaw and Other Tales|publisher=Folio Society|year_published=2005|page=117|passage=I gave him all the money in my possession, Rs.9.8.5. – nine rupees, eight annas, and five '''pie''' – for I always keep small change as ''bakshish'' when I am in camp.}}
+
+=====Translations=====
+{{trans-top|unit of currency}}
+* Hindi: {{t+|hi|पाई|m|sc=Deva}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=eip|EIP|EPI|Epi|IEP|P.E.I.|PEI|Pei|epi|epi-|ipe|ipé}}
+
+{{catlangname|en|terms with unknown etymologies}}
+{{topics|en|Currency|Desserts|Foods|Pies|Corvids}}
+
+----
+
+==Asturian==
+
+===Etymology===
+From {{inh|ast|la|pes|pes, pedem}}.
+
+===Noun===
+{{ast-noun|m}}
+
+# [[foot]]
+
+====Related terms====
+* {{l|ast|peón}}
+
+{{topics|ast|Anatomy}}
+
+----
+
+==Esperanto==
+
+===Adverb===
+{{eo-head}}
+
+# [[piously]]
+#* {{quote-book
+|eo
+|year=1922
+|title=Nuntempaj Rakontoj
+|author=Ivan H. Krestanoff (tr.)
+|by=G. P. Stamatov
+|chapter=En la tombejo
+|publisher=Ferdinand Hirt &amp; Sohn
+|location=Leipzig
+|url=http://www.gutenberg.org/files/23670/23670-h/23670-h.htm#nr2
+|page=15
+|passage=Nadja '''pie''' stariĝis apud la kruco.
+|translation=Nadia '''piously''' stood next to the cross.}}
+
+----
+
+==French==
+
+===Etymology===
+From {{inh|fr|fro|pie}}, from {{inh|fr|la|pica}}, feminine of {{m|la|picus||woodpecker}}.
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|Fr-pie.ogg|audio}}
+
+===Noun===
+{{fr-noun|f}}
+
+# [[magpie]]
+
+====Derived terms====
+* {{l|fr|fromage à la pie}}
+
+===Further reading===
+* {{R:TLFi}}
+
+===Anagrams===
+* {{l|fr|épi}}, {{l|fr|I.-P.-E.}}, {{l|fr|IPE}}, {{l|fr|ipé}}
+
+[[Category:fr:Birds]]
+
+----
+
+==Italian==
+
+===Adjective===
+{{head|it|adjective form|g=f-p}}
+
+# {{it-adj form of|pio|f|pl}}
+
+===Anagrams===
+* {{anagrams|it|pei}}
+
+----
+
+==Latin==
+
+===Etymology 1===
+
+====Adverb====
+{{la-adv|piē}}
+
+# [[piously]], [[devoutly]]
+# [[dutifully]], [[loyally]]
+
+===Etymology 2===
+
+====Adjective====
+{{la-adj-form|pie}}
+
+# {{inflection of|la|pius||voc|m|s}}
+
+===References===
+* {{R:L&amp;S}}
+* {{R:Elementary Lewis}}
+* {{R:Gaffiot}}
+* {{R:M&amp;A}}
+
+----
+
+==Latvian==
+
+===Preposition===
+{{lv-prep|gen}}
+
+# [[at]]
+#: {{ux|lv|es biju '''pie''' tēva|t=I was '''at''' my father's|inline=1}}
+# [[on]]
+#: {{ux|lv|māja '''pie''' jūras|t=a house '''on''' the sea|inline=1}}
+# [[to]]
+#: {{ux|lv|braukšu '''pie''' tevis|t=I will go '''to''' your place|inline=1}}
+
+----
+
+==Mandarin==
+
+===Romanization===
+{{head|cmn|pinyin}}
+
+# {{nonstandard spelling of|cmn|sc=Latn|piē}}
+# {{nonstandard spelling of|cmn|sc=Latn|piě}}
+# {{nonstandard spelling of|cmn|sc=Latn|piè}}
+
+====Usage notes====
+* {{cmn-toneless-note}}
+
+----
+
+==Middle English==
+
+===Etymology 1===
+From {{bor|enm|ML.|pīca}}.
+
+====Noun====
+{{head|enm|noun}}
+
+# {{alternative form of|enm|pye|id=pie|t=pie}}
+
+===Etymology 2===
+From {{bor|enm|fro|pie}}.
+
+====Noun====
+{{head|enm|noun}}
+
+# {{alternative form of|enm|pye|id=magpie|t=magpie}}
+
+----
+
+==Norman==
+
+===Etymology===
+From {{inh|nrf|fro|pie}}, from {{inh|nrf|la|pica}}, feminine of {{m|la|picus||woodpecker}}.
+
+===Pronunciation===
+* {{audio|nrf|Jer-pie.ogg|Audio (Jersey)}}
+
+===Noun===
+{{nrf-noun|f}}
+
+# {{lb|nrf|Jersey}} female [[magpie]]
+
+====Synonyms====
+* {{l|nrf|mèrgot}}
+
+====Coordinate terms====
+{{checksense|nrf}}
+* {{sense|sex}} {{l|nrf|piêté}}
+
+{{topics|nrf|Corvids}}
+
+----
+
+==Old French==
+
+===Etymology===
+From {{inh|fro|la|pīca}}.
+
+===Noun===
+{{fro-noun|f}}
+
+# [[magpie]]
+
+====Descendants====
+* {{desc|en|pie|bor=1}}
+* {{desc|fr|pie}}
+* {{desc|nrf|pie}} {{qualifier|Jersey}}
+
+----
+
+==Portuguese==
+
+===Verb===
+{{head|pt|verb form}}
+
+# {{pt-verb-form-of|piar}}
+
+----
+
+==Spanish==
+[[File:Grown_man's_feet_2.jpg|thumb|Los pies de un hombre]]
+
+===Pronunciation===
+* {{es-IPA}}
+
+===Etymology 1===
+From {{inh|es|la|pēs}}, from {{inh|es|ine-pro|*pṓds}}.
+
+====Noun====
+{{es-noun|m}}
+
+# [[foot]] {{qualifier|of a person}}
+#: {{syn|es|pata|q1=of an animal}}
+# {{lb|es|poetry}} [[foot]]
+
+=====Alternative forms=====
+* {{l|es|pié}} {{q|obsolete}}
+
+=====Derived terms=====
+{{der4|es
+|a contrapié
+|a sus pies
+|a pie
+|al pie del cañón
+|al pie de la letra
+|al pie de la palabra
+|a pies juntillas
+|a sus pies
+|antepié
+|apoyapiés
+|besapiés
+|buscarle tres pies al gato
+|ciudadano de a pie
+|[[con buen pie]]/[[con el pie derecho]]
+|[[con mal pie]]/[[con el pie izquierdo]]
+|con los pies por delante
+|con pies de plomo
+|de los pies a la cabeza
+|dar pie
+|en pie de guerra
+|en pie de igualdad
+|estar de pie
+|hacer pie
+|levantarse con el pie izquierdo
+|meter el pie
+|nacer de pie
+|no comerse un rosco
+|no dar pie con bola
+|no tener pies ni cabeza
+|parar los pies a alguien
+|pie de página
+|pie de foto
+|pie cavo
+|pie de atleta
+|pie de burro
+|pie de imprenta
+|pie de monte
+|pie plano
+|pie quebrado
+|pies de barro
+|poner los pies en un lugar
+|poner los pies en polvorosa
+|ponerse de pie
+|por pies
+|reposapiés
+|saber de qué pie cojea alguien
+|sacar los pies del plato
+|sin pies ni cabeza
+|sondeo a pie de urna
+|voy a caballo y vengo a pie
+}}
+
+=====Related terms=====
+{{rel3
+|es|pedestre
+|peón
+|pedal
+}}
+
+===Etymology 2===
+
+====Verb====
+{{head|es|verb form}}
+
+# {{es-verb form of|ending=ar|mood=indicative|tense=preterite|pers=1|number=singular|piar}}
+
+=====Alternative forms=====
+* {{l|es|píe}}
+
+===Etymology 3===
+Borrowed from {{bor|es|en|pie}}.
+
+====Pronunciation====
+{{IPA|es|/paɪ/}}
+
+====Noun====
+{{es-noun|m}}
+
+# {{lb|es|Central America|South America}} [[pie#English|pie]]
+
+=====Usage notes=====
+Spanish-speaking Central and South Americans use the English loanword ''pie'' to refer to certain kinds of pies but not all kinds of pies. Some types of pies are referred to as {{m|es|tarta}}. It very much depends on the region for which term to use. ''Tarta'' is much more frequent, however.
+
+=====Alternative forms=====
+* {{alter|es|pay||Mexico}}
+
+=====Derived terms=====
+* {{l|es|pie de parchita||passionfruit cheesecake}} {{qual|especially in ''Venezuela''}}
+* {{l|es|pie de limón||lemon pie}} {{qual|Central and South America}}
+
+===Further reading===
+* {{R:DRAE}}
+
+[[Category:Spanish three-letter words]]
+{{topics|es|Anatomy|Units of measure}}</text>
+      <sha1>hth2rjvlxv786ftqw69zyk76el87hq2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>book</title>
+    <ns>0</ns>
+    <id>47</id>
+    <revision>
+      <id>59230311</id>
+      <parentid>59230308</parentid>
+      <timestamp>2020-04-28T14:30:38Z</timestamp>
+      <contributor>
+        <username>Equinox</username>
+        <id>84390</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11536" xml:space="preserve">{{also|Book}}
+==English==
+{{wikipedia}}
+
+===Pronunciation===
+* {{enPR|bo͝ok}}, {{IPA|en|/bʊk/}}
+* {{enPR|bo͞ok}} {{IPA|en|/buːk/}} {{a|still sometimes northern England; otherwise obsolete}}&lt;ref&gt;{{R:Critical Pronouncing Dictionary|Book|139|2|ppage=1}}&lt;/ref&gt;
+* {{audio|en|en-us-book.ogg|Audio (US)}} ''plural'' {{audio|en|en-us-books.ogg|Audio (US)}}
+* {{audio|en|En-uk-book.ogg|Audio (UK)}}
+* {{rhymes|en|ʊk}}
+
+===Etymology 1===
+From {{inh|en|enm|booke}}, {{m|enm|book}}, {{m|enm|bok}}, from {{inh|en|ang|bōc}}, from {{inh|en|gem-pro|*bōks||beech, book}}, from {{inh|en|ine-pro|*bʰeh₂ǵos|t=beech}}.
+{{rel-top|Cognates}}
+Cognate with {{cog|sco|buik}}, {{m|sco|beuk||book}}, {{cog|fy|boek||book}}, {{cog|nds-de|Book}}, {{cog|nds-nl|book}}, {{cog|nl|boek||book}}, {{cog|de|Buch||book}}, {{cog|da|bog}}, {{cog|no|-}} and {{cog|sv|bok||book}}. Eclipsed non-native {{noncog|enm|livret}}, {{m|enm|lyveret|t=book, booklet}} from {{noncog|fro|livret|t=book, booklet}}.
+
+Related also to {{cog|la|fāgus||beech}}, {{cog|ru|бук||beech}}, {{cog|sq|bung||chestnut, oak}}, {{cog|grc|φηγός||oak}}.
+
+More at {{l|en|beech}}, {{l|en|buckwheat}}.
+{{rel-bottom}}
+The sense development of ''beech'' to ''book'' is explained by the fact that smooth gray beech bark was commonly used as [[bookfell]].&lt;ref&gt;J.P. Mallory, ''Encyclopedia of Indo-European Culture'', s.v. &quot;beech&quot; (London: Fitroy-Dearborn, 1997), 58.&lt;/ref&gt;
+
+====Noun====
+[[Image:Pieni2.jpg|right|thumb|A hard-cover book.]]
+[[File:Coat of arms of the University of Oxford.svg|right|thumb|The coat of arms of Oxford (like several other universities) depicts a book.]]
+{{en-noun}}
+
+# A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.
+#* {{Q|en|William Shakespeare|The Tempest|1|2|year=1610–1611|quote=Knowing I loved my '''books''', he furnished me / From mine own library with volumes that / I prize above my dukedom.}}
+#* '''1962''', James East Irby translating {{w|Luis Borges}} as &quot;{{w|The Library of Babel}}&quot;:
+#*: I repeat: it suffices that a '''book''' be possible for it to exist. Only the impossible is excluded. For example: no '''book''' can be a ladder, although no doubt there are '''books''' which discuss and negate and demonstrate this possibility and others whose structure corresponds to that of a ladder.
+#* '''1983''', Steve Horelick &amp; al., &quot;{{w|Reading Rainbow}}&quot;:
+#*: I can be anything.&lt;br&gt;Take a look!&lt;br&gt;It's in a '''book''':&lt;br&gt;A reading rainbow.
+#* '''1991''', {{w|Stephen Fry}}, ''[[:w:The Liar (novel)|The Liar]]'', page 51:
+#*: Trefusis's quarters could be described in one word. '''Books'''. '''Books''' and '''books''' and '''books'''. And then, just when an observer might be lured into thinking that that must be it, more '''books'''... Trefusis himself was highly dismissive of them. ‘Waste of trees,’ he had once said. ‘Stupid, ugly, clumsy, heavy things. The sooner technology comes up with a reliable alternative the better... The world is so fond of saying that '''books''' should be “treated with respect”. But when are we told that ''words'' should be treated with respect?’
+#: ''She opened the '''book''' to page 37 and began to read aloud.''
+#: ''He was frustrated because he couldn't find anything about dinosaurs in the '''book'''.''
+# A long work fit for [[publication]], typically [[prose]], such as a [[novel]] or [[textbook]], and typically published as such a bound collection of sheets, but now sometimes electronically as an [[e-book]].
+#: ''I have three copies of his first '''book'''.''
+# A major division of a long work.
+#: ''Genesis is the first '''book''' of the Bible.''
+#: ''Many readers find the first '''book''' of ''A Tale of Two Cities'' to be confusing.''
+#: {{syn|en|tome|volume}}
+# {{lb|en|gambling}} A record of betting (from the use of a notebook to record what each person has bet).
+#: ''I'm running a '''book''' on who is going to win the race.''
+# A convenient collection, in a form resembling a book, of small paper items for individual use.
+#: ''a '''book''' of stamps''
+#: ''a '''book''' of raffle tickets''
+#: {{syn|en|booklet}}
+# {{lb|en|theatre}} The script of a [[musical]] or [[opera]].
+#: {{syn|en|libretto}}
+# {{lb|en|usually|in the plural}} Records of the accounts of a business.
+#: {{syn|en|account|record}}
+# {{lb|en|legal|colloquial}} A [[book award]], a recognition for receiving the highest grade in a class (traditionally an actual book, but recently more likely a letter or certificate acknowledging the achievement).
+# {{lb|en|whist}} Six [[trick]]s taken by one side.
+# {{lb|en|poker slang}} [[four of a kind]]&lt;ref&gt;Weisenberg, Michael (2000) ''[http://www.poker1.com/mcu/pokerdictionary/mculib_dictionary_info.asp The Official Dictionary of Poker].'' MGI/Mike Caro University. {{ISBN|978-1880069523}}&lt;/ref&gt;
+# {{lb|en|sports}} A document, held by the referee, of the incidents happened in the game.
+# {{lb|en|sports|by extension}} A list of all players who have been booked (received a warning) in a game.
+#* {{quote-journal|en|date=March 2, 2011
+|author=Andy Campbell
+|title=Celtic 1 - 0 Rangers
+|work=BBC
+|url=http://news.bbc.co.uk/sport2/hi/football/9409758.stm
+|page=
+|passage=Celtic captain Scott Brown joined team-mate Majstorovic in the '''book''' and Rangers' John Fleck was also shown a yellow card as an ill-tempered half drew to a close.}}
+# {{lb|en|cartomancy}} The twenty-sixth [[Lenormand]] card.
+# {{lb|en|figurative}} Any source of instruction.
+
+=====Synonyms=====
+* ''See'' [[Thesaurus:book]]
+
+=====Hyponyms=====
+* ''See'' [[Thesaurus:book]]
+
+=====Derived terms=====
+{{col4-u|en
+|address book
+|audiobook
+|book account
+|book agent
+|book-answerer
+|book award
+|book-bearer
+|bookbinder
+|book-board
+|book-bosomed
+|book-bound
+|book-boy
+|book-burning
+|bookcase
+|book-cloth
+|book club
+|book canvasser
+|book concern
+|book-crab
+|book-credit
+|book-debt
+|book-edge gilder
+|book-edge marbler
+|book end
+|bookend
+|bookery
+|booketeria
+|book-farmer
+|book-folder
+|book-form
+|bookful
+|book-ghoul
+|book-gill
+|book hand
+|book-holder
+|bookhood
+|bookhouse
+|book-hunt
+|bookie
+|bookish
+|bookism
+|bookjacket
+|bookkeeper
+|bookkeeping
+|book-label
+|book-lare
+|book launch
+|book-law
+|book-lear
+|book-learned
+|book-learning
+|book-length
+|bookless
+|booklet
+|booklike
+|bookling
+|booklore
+|booklouse
+|booklover
+|book lover
+|book lung
+|bookly
+|bookmaker
+|bookmaking
+|bookman
+|bookmark
+|bookmarker
+|book match
+|book-mate
+|book-mindedness
+|book mite
+|bookmobile
+|book-muslin
+|book name
+|book-number
+|book-oath
+|book of condolence
+|book of first entry
+|Book of God
+|book of lading
+|book of life
+|book of original entry
+|book of rates
+|book of reference
+|Book of the Dead
+|book of the film
+|book of the living
+|book of words
+|book-packet
+|book piles
+|bookplate
+|book pocket
+|book-post
+|book-postage
+|book-press
+|book price
+|book prop
+|book-rate
+|book-read
+|bookrest
+|bookroom
+|book-scorpion
+|bookseller
+|bookselling
+|bookshelf
+|bookshop
+|book-shy
+|booksie
+|book-slide
+|book-society
+|book-stack
+|bookstaff
+|bookstall
+|book-stamp
+|bookstand
+|bookstore
+|book support
+|booksy
+|book-table
+|book token
+|book trade
+|book-tray
+|book-trough
+|book type
+|book value
+|bookwards
+|book-ways
+|bookwise
+|bookwork
+|book-world
+|bookworm
+|book-wright
+|booky
+|bring to book
+|burn book
+|by-book
+|by the book
+|casebook
+|cashbook
+|checkbook
+|chequebook
+|cheque book
+|closed book
+|close the books
+|coffee table book
+|coffee-table book
+|comic book
+|cookbook
+|cookery book
+|cook the books
+|copybook
+|coursebook
+|e-book
+|exercise book
+|forebook
+|fuck book
+|Good Book
+|guest book
+|guidebook
+|handbook
+|hymn book
+|in anyone's book
+|in my book
+|in someone's bad books
+|in someone's good books
+|in the books
+|know like a book
+|logbook
+|make book
+|matchbook
+|notebook
+|off the books
+|on the books
+|open book
+|passbook
+|pension book
+|phrasebook
+|pocketbook
+|prayer book
+|ration book
+|read like a book
+|reading book
+|record book
+|reference book
+|rough book
+|runbook
+|scrapbook
+|sketch book
+|spellbook
+|songbook
+|storybook
+|suit one's book
+|take a leaf out of someone's book
+|talk like a book
+|textbook
+|throw the book at
+|visitors' book
+|without book
+|wordbook
+|workbook
+|yearbook
+}}
+
+=====Descendants=====
+{{top2}}
+* {{desc|srn|buku}}
+* {{desctree|tpi|buk}}
+* {{desc|ny|buku|bor=1}}
+* {{desc|haw|puke|bor=1}}
+* {{desc|mg|boky|bor=1}}
+* {{desc|mh|bok|bor=1}}
+* {{desc|meu|buka|bor=1}}
+* {{desc|mg|boky|bor=1}}
+* {{desc|sn|bhuku|bor=1}}
+* {{desc|so|buugga|bor=1}}
+* {{desc|st|buka|bor=1}} {{i|possibly also from Afrikaans {{m|af|boek}}}}
+* {{desc|zu|ibhuku|bor=1}} {{i|possibly also from Afrikaans {{m|af|boek}}}}
+{{bottom}}
+
+=====Translations=====
+See {{section link|book/translations#Noun}}
+
+=====See also=====
+* {{l|en|incunable}}
+* {{l|en|scroll}}
+* {{l|en|tome}}
+* {{l|en|volume}}
+
+===Etymology 2===
+From {{inh|en|enm|booken}}, {{m|enm|boken}}, from {{inh|en|ang|bōcian}}, {{m|ang|ġebōcian}}, from the noun (see above).
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|transitive}} To [[reserve]] (something) for future use.
+#: ''I want to '''book''' a hotel room for tomorrow night''
+#: ''I can '''book''' tickets for the concert next week.''
+#: {{syn|en|reserve}}
+# {{lb|en|transitive}} To [[write down]], to [[register]] or [[record]] in a book or as in a book.
+#: ''They '''booked''' that message from the hill''
+#: {{syn|en|[[make]] a [[note]] of|[[note]] [[down]]|record|write down}}
+# {{lb|en|law enforcement|transitive}} To [[record]] the name and other details of a suspected offender and the offence for later judicial action.
+#: ''The police '''booked''' him for driving too fast.''
+# {{lb|en|sports}} To issue with a [[caution]], usually a [[yellow card]], or a [[red card]] if a yellow card has already been issued.
+# {{lb|en|intransitive|slang}} To travel very fast.
+#: ''He was really '''booking''', until he passed the speed trap.''
+#: {{syn|en|bomb|hurtle|rocket|speed|shoot|whiz}}
+# To record [[bet|bets]] as [[bookmaker]].
+# {{lb|en|transitive|law student slang}} To receive the highest [[grade]] in a class.
+#: ''The top three students had a bet on which one was going to '''book''' their intellectual property class.''
+# {{lb|en|intransitive|slang}} To leave.
+#: ''He was here earlier, but he '''booked'''.''
+
+=====Derived terms=====
+{{der3|en|title=Terms derived from the verb “book”
+|bookable
+|booking
+|double-book
+|overbook
+|rebook
+|unbook
+|underbook
+}}
+
+=====Translations=====
+See {{section link|book/translations#Verb}}
+
+===Etymology 3===
+From {{inh|en|enm|book}}, {{m|enm|bok}}, from {{inh|en|ang|bōc}}, from {{inh|en|gem-pro|*bōk}}, first and third person singular indicative past tense of {{der|en|gem-pro|*bakaną|t=to bake}}.
+
+====Verb====
+{{head|en|verb form}}
+
+# {{lb|en|UK|_|dialectal|Northern England}} {{en-simple past of|bake}}
+
+===References===
+&lt;references/&gt;
+
+===Anagrams===
+* {{anagrams|en|a=bkoo|Boko|Koob|boko|bòkò|kobo}}
+
+{{cln|en|basic words|student slang}}
+{{topics|en|Textual division|Heraldic charges}}
+
+----
+
+==Limburgish==
+
+===Etymology===
+From {{inh|li|dum|boec}}, from {{inh|li|odt|buok}}, from {{inh|li|gem-pro|*bōks}}.
+
+===Pronunciation===
+* {{IPA|li|/boːk/}}
+
+===Noun===
+{{li-noun|g=n|pl=beuk}}
+
+# {{l|en|book}}
+
+----
+
+==Mansaka==
+
+===Noun===
+{{head|msk|noun}}
+
+# [[piece]]
+
+----
+
+==Middle English==
+
+===Etymology 1===
+From {{inh|enm|ang|bōc}}.
+
+====Noun====
+{{enm-noun}}
+
+# {{alternative form of|enm|booke}}
+
+===Etymology 2===
+From {{inh|enm|ang|būc}}.
+
+====Noun====
+{{enm-noun}}
+
+# {{alternative form of|enm|bouk}}
+
+----
+
+==Norwegian Bokmål==
+
+===Verb===
+{{nb-verb-form}}
+
+# {{imperative of|nb|booke}}</text>
+      <sha1>husvaxtn96js9madc7uijup56zqcc9f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>pound</title>
+    <ns>0</ns>
+    <id>49</id>
+    <revision>
+      <id>59185724</id>
+      <parentid>59045869</parentid>
+      <timestamp>2020-04-20T17:36:48Z</timestamp>
+      <contributor>
+        <username>Gazamp</username>
+        <id>3442730</id>
+      </contributor>
+      <comment>t+kw:[[peuns]] ([[WT:EDIT|Assisted]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21712" xml:space="preserve">{{also|Pound}}
+==English==
+
+===Pronunciation===
+* {{IPA|en|/paʊnd/}}
+* {{audio|en|en-us-pound.ogg|Audio (US)}}
+* {{rhymes|en|aʊnd}}
+
+===Etymology 1===
+{{PIE root|en|(s)pend}}
+From {{inh|en|enm|pound}}, from {{inh|en|ang|pund||a pound, weight}}, from {{inh|en|gem-pro|*pundą||pound, weight}}, an early borrowing from {{der|en|la|pondō||by weight}}, ablative form of {{m|la|pondus||weight}}, from {{der|en|ine-pro|*pend-}}, {{m|ine-pro|*spend-||to pull, stretch}}. Cognate with {{cog|nl|pond}}, {{cog|de|Pfund}}, {{cog|sv|pund}}. {{doublet|en|pood}}.
+
+====Noun====
+{{en-noun}} (sometimes '''pound''' after numerals)
+
+# A [[unit]] of [[mass]] equal to 16 [[avoirdupois]] ounces (= 453.592 37 g). Today this value is the most common meaning of &quot;pound&quot; as a unit of weight.
+#* {{quote-journal|en|date=28 July 2010|author=Rachel Williams|work=The Guardian|title=Mothers who lose weight before further pregnancy ‘reduce risks’|url=http://www.guardian.co.uk/lifeandstyle/2010/jul/28/mothers-lose-weight-reduce-risks?INTCMP=SRCH|passage=Research shows that retaining even one or two '''pounds''' after giving birth can make problems more likely in a subsequent pregnancy, experts said, with women who have several children facing a &quot;slippery slope&quot; if they continue to gain weight each time.}}
+#: {{syn|en|lb}}
+# A unit of [[mass]] equal to 12 [[troy weight|troy ounce]]s (≈ 373.242 g). Today, this is a common unit of weight when measuring precious metals, and is little used elsewhere.
+#: {{syn|en|lb t}}
+# {{lb|en|US}} The symbol {{unsupported|#}} ([[octothorpe]], [[hash]]) &lt;!--isn't this &quot;pound sign&quot; rather than &quot;pound&quot;?--&gt;
+#: {{syn|en|hash|sharp}}
+# The unit of currency used in the United Kingdom and its [[dependency|dependencies]]. It is divided into 100 [[pence]].
+#* {{quote-journal|en|date=November 11 2012|author=Carole Cadwalladr|work=Observer|title=Do online courses spell the end for the traditional university?|url=http://www.guardian.co.uk/education/2012/nov/11/online-free-learning-end-of-university?INTCMP=SRCH|passage=For students in developing countries who can't get it any other way, or for students in the first world, who can but may choose not to. Pay thousands of '''pounds''' a year for your education? Or get it free online?}}
+#* {{quote-book|en|year=1860|author={{w|George Eliot}}|title=The Mill on the Floss|volume_plain=book 5|chapter=6|passage=&quot;Only a hundred and ninety-three '''pound''',&quot; said Mr. Tulliver. &quot;You've brought less o' late; but young fellows like to have their own way with their money. Though I didn't do as I liked before I was of age.&quot; He spoke with rather timid discontent.}}
+#: {{syn|en|£|pound sterling|GBP|quid|nicker}}
+# Any of various units of [[currency]] used in Egypt and Lebanon, and formerly in the Republic of Ireland, Cyprus and Israel.
+#* {{RQ:Joyce Ulysses|chapter=[Episode 4]|passage=He glanced back through what he had read and, while feeling his water flow quietly, he envied kindly Mr Beaufoy who had written it and received payment of three '''pounds''', thirteen and six.}}
+#: {{syn|en|punt}}
+# Any of various units of [[currency]] formerly used in the [[United States]].
+#: {{ux|en|the Rhode Island '''pound'''; the New Hampshire '''pound'''}}
+#* {{quote-book|en|year=2010|author=Steven Field|title=Dusty's Fort|publisher=|url=|isbn=1445292416|page=33|passage=He knocked out cans of warm cola at two '''pound''' fifty a time.}}
+# Abbreviation for [[pound-force]], a unit of force/weight. Using this abbreviation to describe pound-force is inaccurate and unscientific.
+
+=====Usage notes=====
+* Internationally, the &quot;pound&quot; has most commonly referred to the UK pound, £, (pound sterling). The other currencies were usually distinguished in some way, e.g., the &quot;Irish pound&quot; or the &quot;punt&quot;.
+* In the vicinity of each other country calling its currency the pound among English speakers the local currency would be the &quot;pound&quot;, with all others distinguished, e.g., the &quot;British pound&quot;, the &quot;Egyptian pound&quot; etc.
+* The general plural of &quot;pound&quot; has usually been &quot;pounds&quot; (at least since Chaucer), but the continuing use of the Old English genitive or neuter &quot;pound&quot; as the plural after numerals (for both currency and weight) is common in some regions. It can be considered correct, or colloquial, depending on region.
+
+=====Derived terms=====
+{{der4|en|-pounder|800-pound gorilla|Amsterdam pound|avoirdupois pound|foot-pound|foot-pound-second|geepound|in for a penny, in for a pound|metric pound|pack on the pounds|pink pound|pound cake|pound-foolish|pound-force|pound-for-pound|pound of flesh|pound shop|pound sign|take care of the pennies and the pounds will take care of themselves|ten pound pom|ten pound tourist|troy pound}}
+
+=====Translations=====
+{{trans-see|pound-force}}
+
+{{trans-top|unit of mass (16 ounces avoirdupois)}}
+* Arabic: {{t|ar|بَاوْنْد|tr=bawnd|m}}, {{t|ar|رَطْل|m}}
+*: Egyptian Arabic: {{t|arz|رَطْل|m|tr=raṭl}}, {{t|arz|بَاوْنْد|m|tr=bawnd}}
+* Armenian: {{t+|hy|ֆունտ}}
+* Assamese: {{t|as|পাউণ্ড}}
+* Basque: {{t|eu|libra}}
+* Bengali: {{t|bn|পাউন্ড}}
+* Biatah Bidayuh: {{t|bth|paon}}
+* Bulgarian: {{t|bg|фунт|m}}
+* Burmese: {{t+|my|ပေါင်}}
+* Catalan: {{t+|ca|lliura|f}}
+* Chinese:
+*: Cantonese: {{t|yue|磅|tr=bong6}}
+*: Mandarin: {{t+|cmn|磅|tr=bàng}}
+* Czech: {{t+|cs|libra|f}}
+* Danish: {{t|da|pund|n}}
+* Dutch: {{t+|nl|pond|n}}
+* Esperanto: {{t|eo|funto}}
+* Faroese: {{t|fo|pund|n}}
+* Finnish: {{t+|fi|naula}}, {{t+|fi|pauna}}
+* French: {{t+|fr|livre|f}}
+* Georgian: {{t|ka|გირვანქა}}
+* German: {{t+|de|Pfund|n}}
+* Greek: {{t+|el|λίβρα|f}}
+* Hausa: {{t|ha|laba}}
+* Hindi: {{t+|hi|पौंड}}
+* Hungarian: {{t+|hu|font}}
+* Ido: {{t+|io|pfund}}
+* Indonesian: {{t+|id|pon}}
+* Irish: {{t|ga|punt|m}}
+* Italian: {{t+|it|libbra|f}}
+{{trans-mid}}
+* Japanese: {{t+|ja|ポンド|tr=pondo}}
+* Korean: {{t+|ko|파운드}}
+* Latin: {{t+|la|libra|f}}
+* Lithuanian: {{t|lt|svaras|m}}
+* Luxembourgish: {{t|lb|Pond}}
+* Macedonian: {{t|mk|ли́бра|f}}, {{t|mk|фу́нта|f}}
+* Malay: {{t|ms|paun}}
+* Maltese: {{t|mt|libra|f}}
+* Manx: {{t|gv|punt|m}}
+* Norman: {{t|nrf|livre|f}} {{qualifier|Jersey}}
+* Norwegian: {{t+|no|pund|n}}
+* Persian: {{t+|fa|پوند|tr=pond}}
+* Polish: {{t+|pl|funt|m-in}}
+* Portuguese: {{t+|pt|libra|f}}
+* Romanian: {{t+|ro|livră|f}}, {{t+|ro|pfund|m}}
+* Russian: {{t+|ru|фунт|m}}
+* Scottish Gaelic: {{t|gd|punnd|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|фу̑нта|f}}
+*: Roman: {{t+|sh|fȗnta|f}}
+* Slovak: {{t|sk|libra|f}}
+* Slovene: {{t+|sl|funt|m}}
+* Spanish: {{t+|es|libra|f}}
+* Swahili: {{t|sw|ratili|9|10}}
+* Swedish: {{t+|sv|pund|n}}
+* Tagalog: {{t|tl|libra}}
+* Thai: {{t|th|ปอนด์}}
+* Turkish: {{t+|tr|libre}}
+* Welsh: {{t|cy|pwys|m}}
+* Yiddish: {{t|yi|פֿונט|n}}
+{{trans-bottom}}
+
+{{trans-top|unit of mass (12 troy ounces)}}
+* Finnish: {{t|fi|troy-naula}}
+* Hebrew: {{t+|he|לִיטְרָה|f|tr=litrá}}
+{{trans-mid}}
+* Latin: {{t+|la|lībra|f}}
+{{trans-bottom}}
+
+{{trans-see|US: symbol #|hash}}
+
+{{trans-top|unit of currency}}
+* Afrikaans: {{t+|af|pond}}
+* Albanian: {{t|sq|paund|m}}
+* Arabic: {{t|ar|جُنَيْه|m}} {{qualifier|UK, Egyptian or Sudanese pound}}, {{t|ar|لِيرَة|f}} or {{t|ar|لَيْرَة|f}} {{qualifier|Syrian or Lebanese pound}}
+*: Egyptian Arabic: {{t|arz|جنية|m|tr=genēh}}
+* Armenian: {{t+|hy|ֆունտ}}
+* Azerbaijani: {{t|az|funt}}
+* Belarusian: {{t|be|фунт|m}}
+* Bengali: {{t|bn|পাউন্ড}}
+* Biatah Bidayuh: {{t|bth|paon}}
+* Bulgarian: {{t|bg|ли́ра|f}}
+* Burmese: {{t+|my|ပေါင်}}
+* Catalan: {{t+|ca|lliura|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|鎊}}, {{t+|cmn|镑|tr=bàng}}
+* Cornish: {{t|kw|peuns|m}}
+* Czech: {{t+|cs|libra|f}}
+* Danish: {{t|da|pund|n}}
+* Dutch: {{t+|nl|pond|n}}
+* Esperanto: {{t+|eo|pundo}}
+* Estonian: {{t|et|nael}}
+* Faroese: {{t|fo|pund|n}}
+* Finnish: {{t+|fi|punta}}
+* French: {{t+|fr|livre|f}}
+* Georgian: {{t|ka|გირვანქა}}
+* German: {{t+|de|Pfund|n}}
+* Greek: {{t+|el|λίρα|f}}
+* Hausa: {{t|ha|fam}}
+* Hebrew: {{t+|he|לִירָה|f|tr=líra}}
+* Hindi: {{t+|hi|पाउंड}}
+* Hungarian: {{t+|hu|font}}
+* Ido: {{t+|io|pound}}
+* Indonesian: {{t+|id|paun}}
+* Irish: {{t|ga|punt|m}}
+* Italian: {{t+|it|lira|f}}, {{t|it|lira sterlina}}, {{t+|it|sterlina}}
+* Japanese: {{t+|ja|ポンド|tr=pondo}}
+* Kazakh: {{t|kk|фунт}}
+{{trans-mid}}
+* Khmer: {{t|km|ផោន}}
+* Korean: {{t+|ko|파운드}}
+* Kyrgyz: {{t+|ky|фунт}}
+* Lao: {{t|lo|ປອນ}}
+* Latvian: {{t|lv|mārciņa|f}}
+* Lithuanian: {{t|lt|svaras|m}}
+* Luxembourgish: {{t|lb|Pond|n}}
+* Macedonian: {{t|mk|фу́нта|f}}
+* Malay: {{t|ms|paun}}
+* Maltese: {{t|mt|lira|f}}
+* Manx: {{t|gv|punt|m}}
+* Mongolian: {{t+|mn|фунт}}
+* Norman: {{t|nrf|live|f}} {{q|continental Normandy}}, {{t|nrf|livre|f}} {{q|Guernsey}}, {{t|nrf|louis|m}} {{q|Jersey}}
+* Norwegian:
+*: Bokmål: {{t+|nb|pund|n}}
+*: Nynorsk: {{t|nn|pund|n}}
+* Polish: {{t+|pl|funt|m}}
+* Portuguese: {{t+|pt|libra|f}}, {{t|pt|libra esterlina|f}}
+* Romanian: {{t+|ro|liră|f}}
+* Russian: {{t+|ru|фунт|m}}
+* Scottish Gaelic: {{t|gd|not|m}}, {{t|gd|punnd|m}}, {{t|gd|nota|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|фу̑нта|f}}
+*: Roman: {{t+|sh|fȗnta|f}}
+* Slovak: {{t|sk|libra|f}}
+* Slovene: {{t+|sl|funt|m}}
+* Spanish: {{t+|es|libra|f}}
+* Swahili: {{t|sw|pauni}}
+* Swedish: {{t+|sv|pund|n}}
+* Tajik: {{t|tg|фунт}}
+* Thai: {{t|th|ปอนด์}}
+* Ukrainian: {{t+|uk|фунт|m}}
+* Uyghur: {{t|ug|پوند‎}}
+* Uzbek: {{t+|uz|funt}}
+* Welsh: {{t|cy|punt|f}}
+{{trans-bottom}}
+
+=====See also=====
+* {{projectlink|wikipedia|Pound (mass)|Pound (the unit of mass)}}
+* {{projectlink|wikipedia|Pound_Sterling|Pound (the UK unit of currency)}}
+* {{l|en|crown}}, {{l|en|farthing}}, {{l|en|florin}}, {{l|en|guinea}}, {{l|en|penny}}, {{l|en|pence}}, {{l|en|shilling}}, {{l|en|sovereign}}, {{l|en|sterling}}
+
+===Etymology 2===
+From {{inh|en|enm|pounde}}, {{m|enm|ponde}}, {{m|enm|pund}}, from {{inh|en|ang|pund|t=an enclosure}}, related to {{cog|ang|pyndan|t=to enclose, shut up, dam, impound}}. Compare also {{cog|ang|pynd|t=a [[cistern]], lake}}.
+
+====Noun====
+{{en-noun}}
+
+# A place for the [[detention]] of [[stray]] or [[wander]]ing [[animal]]s. An [[animal shelter]].
+## {{lb|en|by metonymy}} The people who work for the pound
+##* {{quote-av|en|year=2002|title={{w|25th Hour}}|time=00:27:30|passage=(Police officer to a dog owner) &quot;He'd better stay calm or I'll have the '''pound''' come and get him.&quot;}}
+# A place for the detention of automobiles that have been [[illegal]]ly parked, [[abandon]]ed, etc. Short form of [[impound]].
+#: ''[[w:Beverly Hills Cop|Beverly Hills Cop]]'', Paramount Pictures, 1984:
+#:: '''Inspector Douglas Todd''': Where did you get a truckload of cigarettes from anyway?
+#:: '''Detective Axel Foley''': From the Dearborn Hijacking.
+#:: '''Todd''': The Dearborn Hijacking? That bust went down weeks ago. That load's supposed to be in the damn '''pound'''!
+# A section of a [[canal]] between two adjacent [[lock]]s.
+# A kind of [[fishing]] [[net]], having a large enclosure with a narrow entrance into which fish are directed by wings spreading outward.
+#* {{quote-book|en|year=1913|author={{w|Joseph C. Lincoln}}
+|title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]|chapter=1
+|passage=Then there came a reg'lar terror of a sou'wester same as you don't get one summer in a thousand, and blowed the shanty flat and ripped about half of the weir poles out of the sand. We spent consider'ble money getting 'em reset, and then a swordfish got into the '''pound''' and tore the nets all to slathers, right in the middle of the squiteague season.}}
+
+=====Usage notes=====
+* {{w|Manx English}} uses this word uncountably.
+
+=====Derived terms=====
+{{der3|en|dog pound|impound|lobster pound}}
+
+=====Translations=====
+{{trans-top|place for the detention of stray animals}}
+* Czech: {{t|cs|útulek|m}}
+* Danish: {{t|da|internat|n}}, {{t|da|dyrehjem}}
+* Finnish: {{t|fi|eläinkoti}}
+* French: {{t+|fr|fourrière|f}}
+* German: {{t+|de|Zwinger|m}}, {{t+|de|Tierheim|n}}
+* Greek: {{t+|el|μαντρί|n}}
+* Irish: {{t|ga|póna|m}}, {{t-check|ga|garraí gabhainn|m}} {{qualifier|cattle}}
+{{trans-mid}}
+* Italian: {{t+|it|canile|m}}, {{t+|it|recinto}}, {{t|it|gattile|m}}
+* Macedonian: {{t|mk|кафиле́рија|f}}
+* Malay: {{t|ms|kurungan}}, {{t|ms|kandang}}
+* Portuguese: {{t+|pt|abrigo|m}}, {{t+|pt|carrocinha}}
+* Scottish Gaelic: {{t|gd|punnd|m}}
+* Slovak: {{t|sk|útulok}}
+* Spanish: {{t|es|perrera|f}}
+{{trans-bottom}}
+
+{{trans-top|place for detention of automobiles}}
+* Finnish: {{t|fi|takavarikkoalue}}
+* French: {{t+|fr|fourrière|f}}
+* German: {{t+|de|Verwahrstelle|f}}
+* Greek: {{t+|el|μάντρα|f}}
+{{trans-mid}}
+* Irish: {{t|ga|póna|m}}
+* Italian: {{t|it|autoparco}}, {{t|it|deposito auto}}
+* Portuguese: {{t+|pt|pátio|m}}
+{{trans-bottom}}
+
+{{trans-top|part of canal}}
+* Finnish: {{t|fi|sulkuallas}}
+{{trans-mid}}
+* Italian: {{t+|it|bacino idrico}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Esperanto: {{qualifier|1}} {{t-check|eo|funto}}, {{qualifier|2}} {{t+check|eo|pundo}}, {{qualifier|3}} {{t-check|eo|gardejo}}, {{qualifier|4}} {{t-check|eo|frapego}}
+* French: {{t+check|fr|fourrière|f}} (3)
+{{trans-mid}}
+{{trans-bottom}}
+
+====Verb====
+{{en-verb}}
+
+# To confine in, or as in, a pound; to impound.
+#* {{c.|1620}} anonymous, “{{w|Tom o' Bedlam|Tom o’ Bedlam’s Song}}” in ''Giles Earle his Booke'' (British Museum, Additional MSS. 24, 665):
+#*: When I short haue shorne my sowce face&lt;br&gt;&amp; swigg’d my horny barrell,&lt;br&gt;In an oaken Inne I '''pound''' my skin&lt;br&gt;as a suite of guilt apparrell
+#* {{quote-book|en|year=1644|author={{w|John Milton}}|title={{w|Areopagitica}}; A speech of Mr. John Milton for the Liberty of Unlicenc’d Printing, to the Parlament of England|passage=And he who were pleasantly disposed, could not well avoid to liken it to the exploit of that gallant man, who thought to '''pound''' up the crows by shutting his park gate.}}
+
+===Etymology 3===
+From an alteration of earlier {{m|en|poun}}, {{m|en|pown}}, from {{inh|en|enm|pounen}}, from {{inh|en|ang|pūnian||to pound, beat, bray, bruise, crush}}, from {{inh|en|gem-pro|*pūnōną||to break to pieces, pulverise}}. Related to {{cog|stq|Pün||debris, fragments}}, {{cog|nl|puin||debris, fragments, rubbish}}, {{cog|nds|pun||fragments}}. Perhaps influenced by '''Etymology 2''' {{cog|enm|*pound}}, {{m|enm|pond}}, from {{cog|ang|*pund}}, {{m|ang|pynd}}, in relation to the hollow [[mortar]] for pounding with the [[pestle]].
+
+====Alternative forms====
+* {{l|en|poun}}, {{l|en|pown}} {{qualifier|obsolete or dialectal}}
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|transitive}} To [[strike]] [[hard]], usually [[repeated]]ly.
+#* {{quote-book|en|year=1913|author={{w|Joseph C. Lincoln}}|chapter=12
+|title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]
+|passage=She had Lord James' collar in one big fist and she '''pounded''' the table with the other and talked a blue streak. Nobody could make out plain what she said, for she was mainly jabbering Swede lingo, but there was English enough, of a kind, to give us some idee.}}
+# {{lb|en|transitive}} To [[crush]] to pieces; to [[pulverize]].
+#: {{rfex|en}}
+# {{lb|en|transitive|slang}} To eat or drink very quickly.
+#: {{ux|en|You really '''pounded''' that beer!}}
+# {{lb|en|transitive|baseball|slang}} To [[pitch]] consistently to a certain location.
+#: {{ux|en|The pitcher has been '''pounding''' the outside corner all night.}}
+# {{lb|en|intransitive|of a body part, generally heart, blood, or head}} To [[beat]] strongly or [[throb]].
+#: {{ux|en|As I tiptoed past the sleeping dog, my heart was '''pounding''' but I remained silent.}}
+#: {{ux|en|My head was '''pounding'''.}}
+# {{lb|en|transitive|vulgar|slang}} To [[penetrate]] [[sexual]]ly, with [[vigour]].
+#: {{ux|en|I was '''pounding''' her all night!}}
+# To advance heavily with measured steps.
+#* {{RQ:Conrad Heart of Darkness|part=I|passage=We '''pounded''' along, stopped, landed soldiers; went on, landed custom–house clerks to levy toll in what looked like a God–forsaken wilderness, with a tin shed and a flag–pole lost in it; landed more soldiers—to take care of the custom–house clerks, presumably.}}
+# {{lb|en|engineering}} To make a [[jarring]] [[noise]], as when running.
+#: {{ux|en|The engine '''pounds'''.}}
+# {{lb|en|slang|dated}} To [[wager]] a [[pound]] on.
+#* {{quote-book|en|year=1854|author=Dickens|title=Hard Times|chapter=4|passage=Good-bye, my dear!' said Sleary. 'You'll make your fortun, I hope, and none of our poor folkth will ever trouble you, I'll '''pound''' it.}}
+
+=====Synonyms=====
+* {{sense|strike hard}} {{l|en|hammer}}, {{l|en|pelt}}; see also [[Thesaurus:hit]]
+* {{sense|crush to pieces}} {{l|en|pulverate}}, {{l|en|triturate}}
+* {{sense|eat or drink very quickly}} {{l|en|bolt}}, {{l|en|down}}, {{l|en|chug}}; see also [[Thesaurus:eat]] or [[Thesaurus:drink]]
+* {{sense|penetrate sexually}} {{l|en|drill}}, {{l|en|get up in}}, {{l|en|nail}}, {{l|en|poke}}; see also [[Thesaurus:copulate with]]
+
+=====Derived terms=====
+{{der3|en|ground and pound|pounding|pound down|pound the pavement|pound the table|pound sand|pound town|pound up|pulse-pounding}}
+
+=====Translations=====
+{{trans-top|to strike hard repeatedly}}
+* Czech: {{t+|cs|bušit}}
+* Dutch: {{t+|nl|beuken}}
+* Ewe: {{t|ee|to}}
+* Finnish: {{t+|fi|takoa}}, {{t|fi|rusikoida}}
+* French: {{t+|fr|pilonner}}
+* Galician: {{t|gl|mazar}}
+* Hungarian: {{t|hu|dobogtat}}
+* Icelandic: {{t|is|banga}}
+* Italian: {{t+|it|battere}}, {{t+|it|martellare}}, {{t+|it|colpire}}, {{t+|it|pestare}}, {{t+|it|flagellare}}
+* Lao: {{t-needed|lo}}
+* Latin: {{t|la|pīnsō}}, {{t|la|cūdō}}, {{t|la|tundō}}
+* Lithuanian: {{t|lt|daužyti}}
+* Maori: {{t|mi|pātukituki}}
+{{trans-mid}}
+* Old Norse: {{t|non|banga}}
+* Polish: {{t+|pl|walić|impf}}, {{t+|pl|walnąć|pf}}
+* Portuguese: {{t+|pt|bater}}
+* Quechua: {{t|qu|takay}}
+* Romanian: {{t+|ro|pisa}}, {{t+|ro|bate}}
+* Russian: {{t+|ru|колоти́ть|impf}}
+* Scots: {{t|sco|pran}}
+* Scottish Gaelic: {{t|gd|buail}}
+* Slovak: {{t|sk|biť}}, {{t|sk|tĺcť}}
+* Spanish: {{t+|es|pilar}}
+* Swedish: {{t+|sv|banka}}
+* Telugu: {{t+|te|దంచు}}
+* Thai: {{t+|th|ทุบ}}, {{t+|th|ตี}}
+* ǃXóõ: {{t|nmn|!qhāã}}
+{{trans-bottom}}
+
+{{trans-top|crush to pieces}}
+* Aromanian: {{t|rup|chisedz}}
+* Assamese: {{t|as|খুন্দ}}
+* Belarusian: {{t|be|таўчы́|impf}}
+* Ewe: {{t|ee|to}}
+* Finnish: {{t+|fi|murskata}}
+* Galician: {{t+|gl|triturar}}, {{t+|gl|pulverizar}}
+* Icelandic: {{t|is|banga}}
+* Italian: {{t+|it|frantumare}}, {{t+|it|tritare}}, {{t|it|triturare}}, {{t+|it|polverizzare}}
+* Korean: {{t|ko|([[방아]])[[찧다]]}}, {{t|ko|빻다}}
+* Old Norse: {{t|non|banga}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|triturar}}, {{t+|pt|pulverizar}}
+* Romanian: {{t+|ro|pisa}}
+* Russian: {{t+|ru|толо́чь|impf}}, {{t+|ru|раздробля́ть|impf}}, {{t+|ru|дроби́ть|impf}}, {{t+|ru|моло́ть|impf}}, {{t+|ru|кроши́ть|impf}}
+* Scots: {{t|sco|champ}}, {{t|sco|pran}}
+* Slovak: {{t|sk|drviť}}, {{t|sk|rozdrviť}}
+* Spanish: {{t+|es|pulverizar}}
+* Telugu: {{t+|te|దంచు}}
+* Thai: {{t+|th|ตำ}}, {{t+|th|บด}}
+* Ukrainian: {{t|uk|товкти́|impf}}
+{{trans-bottom}}
+
+{{trans-top|slang: eat or drink quickly}}
+* Finnish: {{t|fi|imaista}}
+* Italian: {{t+|it|ingurgitare}}, {{t+|it|trangugiare}}, {{t+|it|affogarsi}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|devorar}}
+* Russian: {{t+|ru|ло́пать|impf}} {{qualifier|slang, to eat}}
+{{trans-bottom}}
+
+{{trans-top|baseball: to pitch consistently to a certain location}}
+* Finnish: {{t+|fi|pommittaa}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to beat strongly or throb}}
+* Finnish: {{t+|fi|hakata}}, {{t|fi|jyskyttää}}
+* Hungarian: {{t|hu|dobogtat}}
+* Italian: {{t+|it|battere}}, {{t+|it|picchiare}}
+{{trans-mid}}
+* Polish: {{t+|pl|walić|impf}} {{qualifier|of heart}}
+* Slovak: {{t|sk|biť}}, {{t|sk|búšiť}}, {{t|sk|pulzovať}}
+* Swedish: {{t+|sv|slå}}
+{{trans-bottom}}
+
+{{trans-top|slang: to penetrate sexually, with vigour}}
+* Finnish: {{t|fi|ryskyttää}}
+{{trans-mid}}
+* French: {{t+|fr|pilonner}}
+* Polish: {{t+|pl|walić|impf}}
+{{trans-bottom}}
+
+{{trans-top|to advance heavily with measured steps}}
+* Finnish: {{t+|fi|marssia}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to make a jarring noise}}
+* Finnish: {{t|fi|jyskyttää}}
+{{trans-mid}}
+{{trans-bottom}}
+
+=====See also=====
+* {{l|en|bang}}
+
+====Noun====
+{{en-noun}}
+
+# A hard [[blow]].
+#: {{syn|en|pounding}}
+
+=====Translations=====
+{{trans-top|hard blow}}
+* Finnish: {{t+|fi|isku}}
+* Italian: {{t+|it|botta}}, {{t|it|colpo forte}}, {{t+|it|tonfo}}, {{t+|it|martellio}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|batida|f}}
+* Slovak: {{t|sk|úder}}, {{t|sk|rana}}
+{{trans-bottom}}
+{{topics|en|Canals|Currencies|Units of measure}}
+
+----
+
+==Middle English==
+
+===Alternative forms===
+* {{alter|enm|pounde|pund|punde|powund}}
+
+===Etymology===
+From {{inh|enm|ang|pund}}, in turn from {{inh|enm|gem-pro|*pundą}}, from {{der|enm|la|pondō}}.
+
+===Pronunciation===
+* {{IPA|enm|/puːnd/|/pund/}}
+
+===Noun===
+{{enm-noun|pl=poundes|pl2=pounden|pl3=pound}}
+
+# A measurement for weight, most notably the Tower pound, merchant's pound or pound avoirdupois, or a weight of said measurement.
+# A {{l|en|pound}} or other silver coin (including ancient coins), weighing one Tower pound of silver.
+# Money or coinage in general, especially a great amount of it.
+
+====Descendants====
+* {{desc|en|pound}}
+* {{desc|sco|pund}}, {{l|sco|poond}}
+
+====References====
+* {{R:MED Online|entry=pǒund(e (n.(1))|id=MED34229|accessdate=2018-02-22}}
+
+[[Category:enm:Currency]]
+[[Category:enm:Units of measure]]</text>
+      <sha1>fylsxp1y5sscwyrf6kuwd6tifhrv19y</sha1>
+    </revision>
+  </page>
+</mediawiki>

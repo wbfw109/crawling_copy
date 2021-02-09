@@ -1,0 +1,95 @@
+pip install permisison error \.git\objects\
+https://github.com/pypa/pip/issues/4525
+https://github.com/deepmodeling/dpgen/issues/98
+  I suspect this is an edge case caused by the presence of .git which doesn't need to be copied. Removing the .git folder fixed the issue.
+---> 프로젝트 - sub 프로젝트로 구분해서 각 sub 프로젝트 안에서 pipenv 가상환경을 구성해야 할듯.
+
+
+https://data-newbie.tistory.com/267
+
+PS O:\GitHub\repositories\wordCrawling> & C:/Users/wbfw109-1/.virtualenvs/wordCrawling-bFlydwAU/Scripts/Activate.ps1
+(wordCrawling) PS O:\GitHub\repositories\wordCrawling> pipenv install -e . --dev
+Courtesy Notice: Pipenv found itself running within a virtual environment, so it will automatically use that environment, instead of creating its own for any project. You can set PIPENV_IGNORE_VIRTUALENVS=1 to force pipenv to ignore that environment 
+and create its own instead. You can set PIPENV_VERBOSITY=-1 to suppress this warning.
+Installing -e .…
+Adding wordcrawling to Pipfile's [dev-packages]…
+Installation Succeeded
+Installing dependencies from Pipfile.lock (a7ca8d)…
+  ================================ 1/1 - 00:00:01
+Exception in thread Exception in thread Thread-19Thread-18:
+:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "f:\programdata\python\python38-32\lib\threading.py", line 932, in _bootstrap_inner
+  File "f:\programdata\python\python38-32\lib\threading.py", line 932, in _bootstrap_inner
+    self.run()
+self.run()  File "f:\programdata\python\python38-32\lib\threading.py", line 870, in run
+
+  File "f:\programdata\python\python38-32\lib\threading.py", line 870, in run
+    self._target(*self._args, **self._kwargs)
+      File "f:\programdata\python\python38-32\lib\subprocess.py", line 1366, in _readerthread
+self._target(*self._args, **self._kwargs)
+  File "f:\programdata\python\python38-32\lib\subprocess.py", line 1366, in _readerthread
+    buffer.append(fh.read())
+      File "f:\programdata\python\python38-32\lib\codecs.py", line 322, in decode
+buffer.append(fh.read())
+  File "f:\programdata\python\python38-32\lib\codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+    UnicodeDecodeError(result, consumed) = self._buffer_decode(data, self.errors, final):
+'utf-8' codec can't decode byte 0xb0 in position 47: invalid start byteUnicodeDecodeError
+: 'utf-8' codec can't decode byte 0xc6 in position 2: invalid continuation byte
+Traceback (most recent call last):
+  File "f:\programdata\python\python38-32\lib\shutil.py", line 606, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 5] 액세스가 거부되었습니다: 'C:\\Users\\WBFW10~1\\AppData\\Local\\Temp\\reqlib-srcemolukon\\wordCrawling\\.git\\objects\\10\\c3b6562297cd5a7ed0a90b0dd535f317314fd5'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\ProgramData\Python\Python38-32\Lib\site-packages\pipenv\vendor\vistir\contextmanagers.py", line 205, in spinner   
+    yield _spinner
+  File "F:\ProgramData\Python\Python38-32\Lib\site-packages\pipenv\vendor\vistir\misc.py", line 618, in run
+    return _create_subprocess(
+  File "F:\ProgramData\Python\Python38-32\Lib\site-packages\pipenv\vendor\vistir\misc.py", line 542, in _create_subprocess   
+    c.out, c.err = c.communicate()
+  File "f:\programdata\python\python38-32\lib\subprocess.py", line 1024, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+  File "f:\programdata\python\python38-32\lib\subprocess.py", line 1416, in _communicate
+    stdout = stdout[0]
+IndexError: list index out of range
+
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "f:\programdata\python\python38-32\lib\shutil.py", line 606, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 5] 액세스가 거부되었습니다: 'C:\\Users\\WBFW10~1\\AppData\\Local\\Temp\\reqlib-srcemolukon\\wordCrawling\\.git\\objects\\10\\c3b6562297cd5a7ed0a90b0dd535f317314fd5'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\ProgramData\Python\Python38-32\Lib\site-packages\pipenv\vendor\vistir\path.py", line 433, in rmtree
+    shutil.rmtree(directory, ignore_errors=ignore_errors, onerror=onerror)
+  File "f:\programdata\python\python38-32\lib\shutil.py", line 730, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "f:\programdata\python\python38-32\lib\shutil.py", line 603, in _rmtree_unsafe
+    _rmtree_unsafe(fullname, onerror)
+  File "f:\programdata\python\python38-32\lib\shutil.py", line 603, in _rmtree_unsafe
+    _rmtree_unsafe(fullname, onerror)
+  File "f:\programdata\python\python38-32\lib\shutil.py", line 603, in _rmtree_unsafe
+    _rmtree_unsafe(fullname, onerror)
+  [Previous line repeated 1 more time]
+  File "f:\programdata\python\python38-32\lib\shutil.py", line 608, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "F:\ProgramData\Python\Python38-32\Lib\site-packages\pipenv\vendor\vistir\path.py", line 496, in handle_remove_readonly
+    set_write_bit(path)
+  File "F:\ProgramData\Python\Python38-32\Lib\site-packages\pipenv\vendor\vistir\path.py", line 383, in set_write_bit        
+    c = run(
+  File "F:\ProgramData\Python\Python38-32\Lib\site-packages\pipenv\vendor\vistir\misc.py", line 618, in run
+    return _create_subprocess(
+  File "F:\ProgramData\Python\Python38-32\Lib\site-packages\pipenv\vendor\vistir\misc.py", line 542, in _create_subprocess   
+    c.out, c.err = c.communicate()
+  File "f:\programdata\python\python38-32\lib\subprocess.py", line 1024, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+  File "f:\programdata\python\python38-32\lib\subprocess.py", line 1416, in _communicate
+    stdout = stdout[0]
+IndexError: list index out of range

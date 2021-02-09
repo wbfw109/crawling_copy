@@ -1,0 +1,125 @@
+Ctrl + D
+    일반 복사와 달리 Duplicate 는 일정하게 원하는 간격을 띄우거나 회전하여 반복 복사 가능
+D
+    위로 띄워지거나 아래로 내려진 오브젝트를 Workplane 바닥에 안착시키는 기능
+
+
+
+Thingivers: 미국의 유명 3D 프린터 회사인 MarkerBot 사에서 운영하고 있는 대표적인 3D 프린팅 모델링 파일 무료 공유 사이트.
+
+/*
+  V: 전압은 두 점사이에서 발생하는 전하의 차이
+  I: 이런 전하가 흐르는 속도. 저항에 따라 달라짐.
+  Vcc, Vdd는 + 전원에 속하고 Vee, Vss는 - 전원에 속한다.
+  Vcc = Vf + Vr
+  직렬 회로에서는 모든 구간에서 전류값이 같다.
+  1) LED 하나 사용 시 저항계산
+    http://led.linear1.org/1led.wiz
+  2) 직렬로 여러개의 LED 사용 시 저항계산
+    http://led.linear1.org/led.wiz
+  
+  아두이노에서 값을 보내준다면 출력장치, 값을 받는다면 입력장치.
+*/
+
+/*
+  Tutorial 1
+    https://www.youtube.com/watch?v=lUJ-iiD0MCY&list=PLJlrtcxIfzvdcrSbWiK_tXooUuVXri2nD&index=48
+      0 ~ 9 (1.5배속)
+
+
+*/
+
+
+아두이노
+  DIGITAL (PWM~; Pulse Width Modulation)
+    // basic
+      0 = off = 0v = low     <->   1 = on = 5v = high
+    1 ~ 13번까지 핀이 존재한다. 0: RX, 1: TX 는 PC 와 통신을 ㅟㅇ해서 사용한다.
+    "~" 모양이 붙은 핀은 아날로그 출력으로 가능한 핀이다.
+      - 0 ~ 255 까지의 범위를 갖는다.
+    디지털 입력/출력과 아날로그 출력을 담당한다. 아날로그 입력은 다른 라인에 연결해야 한다.
+  ANALOG IN
+    아날로그 입력을 담당한다.
+
+  POWER
+    gnd (ground); 접지
+        전기회로에서 다른 모든 전위의 기준이 되는 전위를 말한다. 일반적으로 전원의 - 전극의 전위를 말하며 대개 0V이다.
+    5V
+      전원 공급 핀. 이 핀에 연결되면 계속해서 전원이 공급된다. 임의 설정을 위해서는 Digital 라인의 핀에 넣어야 한다.
+
+
+Breadboard
+    예전에는 회로구성 시 납땜을 했어야 했지만 안하고도 회로구성을 할 수 있게 해주는 판.
+    - 각 영소문자의 라인에 있는 동일한 숫자라인의 옆에 있는 핀들은 모두 연결이 되어있다.
+    - 각 -, + 의 라인에 있는 라인은 각각의 - 또는 + 라인끼리 모두 연결이 되어있다. 
+      전원이 공급되는 라인 (+) 은 빨간색, 빠져나가는 라인 (-) 은 검정색으로 암묵적으로 표시하고 있음
+
+
+부품
+  LED
+    주의사항
+    1. 저항과 함께 사용해야 한다.
+      보통 2 ~ 3V 를 사용한다. 때문에 5V 에서 저항을 내려주어야 한다.
+        ??? 수치 계산법.. https://studyingandsuccess.tistory.com/25
+      [Error] LED 를 통과하는 전류는 483 ma인데 절대 최대값은 20.0 mA 입니다.
+    - LED 색이나 제품마다 필요한 저항이 다르니 확인하고 사용해야 한다. 보통 220옴을 사용하면 된다.
+  누름버튼
+    왼쪽 다리 [1a, 1b], [2a, 2b] 는 괄호 안의 단자와 서로 연결되어있다. 버튼을 누르면 왼쪽, 오른쪽 단자가 연결되어 전기가 통하게 된다.
+    디지털 핀에 연결할 때에는 버튼이 눌러지기 전까지 회로가 불안정한 상태 -> 플로팅 현상이 발생할 수 있다. LOW도 아닌 HIGH도 아닌 상태.
+      [해결방법]
+        1. pull-down circuit 구성
+          버튼에 연결되는 라인에 저항을 넣고 기본적으로 그라운드로 0으로 설정되도록 해야 한다. 보통 10k옴으로 구성하여 전원이 들어왔을 때 그라운드가 아니라 특정 핀으로만 이동하도록 만들 수 있다.
+        2. pull-up circuit 구성
+          버튼에 연결되는 저항 -> - 라인과, 버튼 -> + 라인을 바꿔준다.
+          즉, 버튼에 연결되는 저항 -> + 라인, 버튼 -> - 라인으로 바꾼다. 
+          
+Vcc; 공급 전압
+  in Arduino, 5V
+Vf; 순반향 전압
+  LED의 정방향으로 전류를 흘릴 때, 애노드 · 캐소드 사이에 발생하는 전압. Red LED: normaly, 1.8V
+Vr; 저항에 걸리는 전압
+If
+  (LED) 사용 전류
+  
+Vcc
+
+    
+
+
+(Crack) Proteus 8.10 SP0 Build 29203
+  https://en.wikipedia.org/wiki/Proteus_Design_Suite
+    - license version: https://www.labcenter.com/
+    - ... search
+
+
+
+
+
+
+
+
+
+
+
+
+경험적으론 충전기 전류가 높으면 생기는거 같습니다.
+실제 내부 부품이 연소되는 경우
+결국 원인은 집에 있는 전원 콘세트에 접지가 되어 있지 않아 유도전기가 발생, 이것이 충전기를 타고 들어와 정전기 및 노이즈를 유발한다는...
+교류 -> 직류 변환 시 노이즈
+
+
+
+
+https://stackoverflow.com/questions/24787010/concat-multiple-match-criteria-in-excel-vba
+엑셀.. Using two minus signs next to each other causes the formula to convert a return value of “TRUE” into 1 and a return value of “FALSE” into 0.
+SUMPRODUCT
+VBA에서는 ..Application.Match 에 Match(1, (range="x")*(range="y")) 수식을 쓰면 값이 도출이 불가능해짐.. Evaluate(s) 쓸것 엑셀과 똒같이 적용할수있어서 좋음.
+Function getPrice(monkeyName As String, path As String) As Integer
+
+    Dim s As Integer
+    
+    i = "VALUE(INDEX(price!$F$2:$F$338,MATCH(1, (price!$C$2:$C$338 = """ & monkeyName & """)*(price!$E$2:$E$338 = """ & path & """ ),0)))"
+
+
+    getPrice = Evaluate(i)
+End Function

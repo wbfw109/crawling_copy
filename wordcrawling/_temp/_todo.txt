@@ -1,0 +1,126 @@
+# soup = BeautifulSoup(html, "lxml")
+# what = input("search")
+#content > div.word_stroke > div > table > tbody > tr > td:nth-child(1) > a > span
+
+# DocString  ?뭔가 겹치는게 있는데;
+
+# import requests
+
+### Docstring
+
+# print("검색하려는 영어 단어를 입력하세요.")
+# word = input()
+
+# url = "http://endic.naver.com/search.nhn?query=" + word
+# response = requests.get(url)
+# soup = BeautifulSoup(response.content, "lxml")
+
+# result = ""
+# try:
+#     result += soup.find('dl', {'class':'list_e2'}).find('dd').find('span', {'class':'fnt_k05'}).get_text()
+# except:
+#     result = "네이버 사전에 등재되어 있지 않습니다."
+# print(result)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://docs.python.org/ko/3/library/abc.html#abc.abstractmethod
+파이썬에서 접근지정자는 없다. 다만, __ 가 앞에 있으면 private, _ 한개짜리는 protected 혹은 둘 다 "웬만하면 직접 접근하지 마세요" 로 약속은 한다. 그냥 같이 개발하는 사람에게 정보 제공 정도이지 언어 자체에서 강제한다는게 아니다. 메소드도 마찬가지.
+클래스 내부에 선언된 변수를 클래스 변수라고 하며, self.name과 같이 self가 붙어 있는 변수를 인스턴스 변수라고 합니다. 클래스 변수는 Account 클래스의 네임스페이스에 위치하며, self.name과 같은 인스턴스 변수는 인스턴스의 네임스페이스에 위치하게 됩니다.
+
+def method6():
+  return ''.join(['num' for num in range(10)])
+
+First-class function
+    https://en.wikipedia.org/wiki/First-class_function
+
+@property
+    list 에 대해서는 불가능하다. 따로 지정해주어야 함.
+
+TypeError: 'list' object is not callable
+    동일한 이름의 리스트와 함수가 둘 다 존재하기 때문.
+    .. 형식이 문제가 아님.. 어디서 꼬이는거지
+
+가급적이면 변수와 함수는 같은 이름을 사용하지 말자.
+
+
+ Python에서, 특정 object에 [] 연산자를 사용하면 내부적으론 __getitem__ 이라는 메소드가 실행됩니다. 실제로 이러한 __getitem__의 확장은 numpy에서 쓰이고 있습니다.
+
+ The open function operates relative to the current process working directory, not the module it is called from. If the path must be module-relative, do this:
+    https://stackoverflow.com/questions/2753254/how-to-open-a-file-in-the-parent-directory-in-python-in-appengine
+
+미디어위키란?
+    https://www.mediawiki.org/wiki/Manual:What_is_MediaWiki%3F/ko
+
+<page> ~ </page>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0. 파이썬 intellisense 이상함;; 확장프로그램 문제같은데
+
+1. Music 파일 정리한 것 깃허브?깃랩?버킷?에 올리기.
+
+2. 개인 즐겨찾기 사전 구축
+    csv 파일로 저장될 것이기 때문에, 긴 내용은 저장하지 않는다?
+
+
+2.1. 한국어-한자어-일본어 
+    크롤링 범위
+        for 한국어: 단어, from 표준국어대사전
+            https://waddlecorp.github.io/2019/10/31/%EA%B0%9C%EB%B0%9C%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%91%9C%EC%A4%80%EA%B5%AD%EC%96%B4%EB%8C%80%EC%82%AC%EC%A0%84-api-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EA%B8%B0/
+            - 한국어
+            - 한자어
+            - 뜻
+
+        for 한자어 <-> 일본어 
+            한자어
+                - 부수
+                - 총획수
+                - 뜻
+                - 자원
+                    .. 자원(字源) 아래가 없으면 위에라도?.. 어떻게 알고리즘;
+            일본어: 한국한자
+                - 일본한자
+                - 음독
+                - 훈독
+                - ??? 일-일 사전 wiktionary ? 로 넘어가기 공부하고?
+
+//
+한자어에만 어원 존재. 한국어 존재하는 한자는 어원에 넣는다.
+일본어 한자어에는 품사가 있긴 하지만 쉽게 구분할 수 있다.
+일본어.. 가 문젠뎅
+    훈독, 음독
+
+크롤링 후 디비에 저장 및 html 서버로 운영하고, 북마크 가능하게 만들기?
+
+
+    
+~~~~~~~~~~~~~~~ bug ~~~~~~~~~~
+intellisense~
+    패키지에 있는 파일들을 옮긴 후, 다시 경로를 파악하게 하기 위하여 VSC를 다시시작해야 한다.
+
+
+
+
+
+
+500 만건.. 이상.. enwiktionary 만.
+MySQL이 무료라지만 1000만건 정도에서는 0.0X초 정도가 나와야 정상입니다.
+★이거 하려면... DB 설계 능력도 필요하다... 
+나중에 MYSQL 다 배우고 서버 설계하자..
+
+db 에 다 저장해야함..
+근데 어차피 개인 머릿속에 들어오는건 정리해서 들어오는데.. 
+- 도미닉 오브라이언
+
+영어
+    품사도 적지말고 "영단어"와 "발음"만 적기.
+한글
+    한글과 한글을 이루는 "한자"까지만 적기
+한자 (1 글자)
+    "대표 뜻" 1 ~ 2 가지와 "음" 까지만 적기.
+    일본어에 해당하는 한자가 있을 경우 각 "훈", "음", 대표 "한글 뜻" 까지 적기, 
+일본어
+    "일본어"와 일본어를 이루는 "한자", "발음" 까지만 적기
+
+문장은?
+
+

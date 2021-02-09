@@ -1,0 +1,2837 @@
+[
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Sharp Shots",
+        "Path": "100",
+        "Price (Hard)": "$150",
+        "Link": "https://bloons.fandom.com/wiki/Sharp_Shots"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Razor Sharp Shots",
+        "Path": "200",
+        "Price (Hard)": "$235",
+        "Link": "https://bloons.fandom.com/wiki/Razor_Sharp_Shots"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Spike-O-Pult",
+        "Path": "300",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Spike-O-Pult"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Juggernaut",
+        "Path": "400",
+        "Price (Hard)": "$1,945",
+        "Link": "https://bloons.fandom.com/wiki/Juggernaut"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Ultra-Juggernaut",
+        "Path": "500",
+        "Price (Hard)": "$16,200",
+        "Link": "https://bloons.fandom.com/wiki/Ultra-Juggernaut"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Quick Shots",
+        "Path": "010",
+        "Price (Hard)": "$110",
+        "Link": "https://bloons.fandom.com/wiki/Quick_Shots"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Very Quick Shots",
+        "Path": "020",
+        "Price (Hard)": "$205",
+        "Link": "https://bloons.fandom.com/wiki/Very_Quick_Shots"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Triple Darts",
+        "Path": "030",
+        "Price (Hard)": "$430",
+        "Link": "https://bloons.fandom.com/wiki/Triple_Darts"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Super Monkey Fan Club",
+        "Path": "040",
+        "Price (Hard)": "$8,640",
+        "Link": "https://bloons.fandom.com/wiki/Super_Monkey_Fan_Club"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Plasma Monkey Fan Club",
+        "Path": "050",
+        "Price (Hard)": "$54,000",
+        "Link": "https://bloons.fandom.com/wiki/Plasma_Monkey_Fan_Club"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Long Range Darts",
+        "Path": "001",
+        "Price (Hard)": "$95",
+        "Link": "https://bloons.fandom.com/wiki/Long_Range_Darts"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Enhanced Eyesight",
+        "Path": "002",
+        "Price (Hard)": "$215",
+        "Link": "https://bloons.fandom.com/wiki/Enhanced_Eyesight"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Crossbow",
+        "Path": "003",
+        "Price (Hard)": "$675",
+        "Link": "https://bloons.fandom.com/wiki/Crossbow"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Sharp Shooter",
+        "Path": "004",
+        "Price (Hard)": "$2,160",
+        "Link": "https://bloons.fandom.com/wiki/Sharp_Shooter"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Crossbow Master",
+        "Path": "005",
+        "Price (Hard)": "$27,000",
+        "Link": "https://bloons.fandom.com/wiki/Crossbow_Master"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Improved Rangs",
+        "Path": "100",
+        "Price (Hard)": "$215",
+        "Link": "https://bloons.fandom.com/wiki/Improved_Rangs"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Glaives",
+        "Path": "200",
+        "Price (Hard)": "$300",
+        "Link": "https://bloons.fandom.com/wiki/Glaives"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Glaive Ricochet",
+        "Path": "300",
+        "Price (Hard)": "$1,405",
+        "Link": "https://bloons.fandom.com/wiki/Glaive_Ricochet"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "M.O.A.R Glaives",
+        "Path": "400",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/M.O.A.R_Glaives"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Glaive Lord",
+        "Path": "500",
+        "Price (Hard)": "$43,200",
+        "Link": "https://bloons.fandom.com/wiki/Glaive_Lord"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Faster Throwing (Boomerang Thrower)",
+        "Path": "010",
+        "Price (Hard)": "$190",
+        "Link": "https://bloons.fandom.com/wiki/Faster_Throwing_(Boomerang_Thrower)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Faster Rangs",
+        "Path": "020",
+        "Price (Hard)": "$270",
+        "Link": "https://bloons.fandom.com/wiki/Faster_Rangs"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Bionic Boomerang",
+        "Path": "030",
+        "Price (Hard)": "$1,730",
+        "Link": "https://bloons.fandom.com/wiki/Bionic_Boomerang"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Turbo Charge",
+        "Path": "040",
+        "Price (Hard)": "$4,320",
+        "Link": "https://bloons.fandom.com/wiki/Turbo_Charge"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Perma Charge",
+        "Path": "050",
+        "Price (Hard)": "$37,800",
+        "Link": "https://bloons.fandom.com/wiki/Perma_Charge"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Long Range Rangs",
+        "Path": "001",
+        "Price (Hard)": "$110",
+        "Link": "https://bloons.fandom.com/wiki/Long_Range_Rangs"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Red Hot Rangs",
+        "Path": "002",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Red_Hot_Rangs"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Kylie Boomerang",
+        "Path": "003",
+        "Price (Hard)": "$1,405",
+        "Link": "https://bloons.fandom.com/wiki/Kylie_Boomerang"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "MOAB Press",
+        "Path": "004",
+        "Price (Hard)": "$2,160",
+        "Link": "https://bloons.fandom.com/wiki/MOAB_Press"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "MOAB Domination",
+        "Path": "005",
+        "Price (Hard)": "$64,800",
+        "Link": "https://bloons.fandom.com/wiki/MOAB_Domination"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Bigger Bombs",
+        "Path": "100",
+        "Price (Hard)": "$430",
+        "Link": "https://bloons.fandom.com/wiki/Bigger_Bombs"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Heavy Bombs",
+        "Path": "200",
+        "Price (Hard)": "$865",
+        "Link": "https://bloons.fandom.com/wiki/Heavy_Bombs"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Really Big Bombs",
+        "Path": "300",
+        "Price (Hard)": "$1,295",
+        "Link": "https://bloons.fandom.com/wiki/Really_Big_Bombs"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Bloon Impact",
+        "Path": "400",
+        "Price (Hard)": "$3,455",
+        "Link": "https://bloons.fandom.com/wiki/Bloon_Impact"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Bloon Crush",
+        "Path": "500",
+        "Price (Hard)": "$59,400",
+        "Link": "https://bloons.fandom.com/wiki/Bloon_Crush"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Faster Reload (Bomb Shooter)",
+        "Path": "010",
+        "Price (Hard)": "$270",
+        "Link": "https://bloons.fandom.com/wiki/Faster_Reload_(Bomb_Shooter)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Missile Launcher",
+        "Path": "020",
+        "Price (Hard)": "$430",
+        "Link": "https://bloons.fandom.com/wiki/Missile_Launcher"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "MOAB Mauler (BTD6)",
+        "Path": "030",
+        "Price (Hard)": "$970",
+        "Link": "https://bloons.fandom.com/wiki/MOAB_Mauler_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "MOAB Assassin",
+        "Path": "040",
+        "Price (Hard)": "$3,455",
+        "Link": "https://bloons.fandom.com/wiki/MOAB_Assassin"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "MOAB Eliminator",
+        "Path": "050",
+        "Price (Hard)": "$27,000",
+        "Link": "https://bloons.fandom.com/wiki/MOAB_Eliminator"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Extra Range",
+        "Path": "001",
+        "Price (Hard)": "$215",
+        "Link": "https://bloons.fandom.com/wiki/Extra_Range"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Frag Bombs",
+        "Path": "002",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Frag_Bombs"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Cluster Bombs",
+        "Path": "003",
+        "Price (Hard)": "$865",
+        "Link": "https://bloons.fandom.com/wiki/Cluster_Bombs"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Recursive Cluster",
+        "Path": "004",
+        "Price (Hard)": "$2,590",
+        "Link": "https://bloons.fandom.com/wiki/Recursive_Cluster"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Bomb Blitz",
+        "Path": "005",
+        "Price (Hard)": "$37,800",
+        "Link": "https://bloons.fandom.com/wiki/Bomb_Blitz"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Faster Shooting",
+        "Path": "100",
+        "Price (Hard)": "$160",
+        "Link": "https://bloons.fandom.com/wiki/Faster_Shooting"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Even Faster Shooting",
+        "Path": "200",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Even_Faster_Shooting"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Hot Shots",
+        "Path": "300",
+        "Price (Hard)": "$650",
+        "Link": "https://bloons.fandom.com/wiki/Hot_Shots"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Ring of Fire",
+        "Path": "400",
+        "Price (Hard)": "$4,860",
+        "Link": "https://bloons.fandom.com/wiki/Ring_of_Fire"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Inferno Ring",
+        "Path": "500",
+        "Price (Hard)": "$54,000",
+        "Link": "https://bloons.fandom.com/wiki/Inferno_Ring"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Long Range Tacks",
+        "Path": "010",
+        "Price (Hard)": "$110",
+        "Link": "https://bloons.fandom.com/wiki/Long_Range_Tacks"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Super Range Tacks",
+        "Path": "020",
+        "Price (Hard)": "$245",
+        "Link": "https://bloons.fandom.com/wiki/Super_Range_Tacks"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Blade Shooter",
+        "Path": "030",
+        "Price (Hard)": "$595",
+        "Link": "https://bloons.fandom.com/wiki/Blade_Shooter"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Blade Maelstrom (BTD6)",
+        "Path": "040",
+        "Price (Hard)": "$2,915",
+        "Link": "https://bloons.fandom.com/wiki/Blade_Maelstrom_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Super Maelstrom",
+        "Path": "050",
+        "Price (Hard)": "$16,200",
+        "Link": "https://bloons.fandom.com/wiki/Super_Maelstrom"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "More Tacks",
+        "Path": "001",
+        "Price (Hard)": "$110",
+        "Link": "https://bloons.fandom.com/wiki/More_Tacks"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Even More Tacks",
+        "Path": "002",
+        "Price (Hard)": "$110",
+        "Link": "https://bloons.fandom.com/wiki/Even_More_Tacks"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Tack Sprayer",
+        "Path": "003",
+        "Price (Hard)": "$485",
+        "Link": "https://bloons.fandom.com/wiki/Tack_Sprayer"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Overdrive",
+        "Path": "004",
+        "Price (Hard)": "$3,455",
+        "Link": "https://bloons.fandom.com/wiki/Overdrive"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "The Tack Zone",
+        "Path": "005",
+        "Price (Hard)": "$25,920",
+        "Link": "https://bloons.fandom.com/wiki/The_Tack_Zone"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Permafrost",
+        "Path": "100",
+        "Price (Hard)": "$110",
+        "Link": "https://bloons.fandom.com/wiki/Permafrost"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Metal Freeze",
+        "Path": "200",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Metal_Freeze"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Ice Shards",
+        "Path": "300",
+        "Price (Hard)": "$1,620",
+        "Link": "https://bloons.fandom.com/wiki/Ice_Shards"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Embrittlement",
+        "Path": "400",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/Embrittlement"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Super Brittle",
+        "Path": "500",
+        "Price (Hard)": "$32,400",
+        "Link": "https://bloons.fandom.com/wiki/Super_Brittle"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Enhanced Freeze",
+        "Path": "010",
+        "Price (Hard)": "$245",
+        "Link": "https://bloons.fandom.com/wiki/Enhanced_Freeze"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Deep Freeze",
+        "Path": "020",
+        "Price (Hard)": "$380",
+        "Link": "https://bloons.fandom.com/wiki/Deep_Freeze"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Arctic Wind (BTD6)",
+        "Path": "030",
+        "Price (Hard)": "$3,455",
+        "Link": "https://bloons.fandom.com/wiki/Arctic_Wind_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Snowstorm",
+        "Path": "040",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/Snowstorm"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Absolute Zero",
+        "Path": "050",
+        "Price (Hard)": "$28,080",
+        "Link": "https://bloons.fandom.com/wiki/Absolute_Zero"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Larger Radius",
+        "Path": "001",
+        "Price (Hard)": "$110",
+        "Link": "https://bloons.fandom.com/wiki/Larger_Radius"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Re-Freeze",
+        "Path": "002",
+        "Price (Hard)": "$215",
+        "Link": "https://bloons.fandom.com/wiki/Re-Freeze"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Cryo Cannon",
+        "Path": "003",
+        "Price (Hard)": "$2,160",
+        "Link": "https://bloons.fandom.com/wiki/Cryo_Cannon"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Icicles",
+        "Path": "004",
+        "Price (Hard)": "$2,160",
+        "Link": "https://bloons.fandom.com/wiki/Icicles"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Icicle Impale",
+        "Path": "005",
+        "Price (Hard)": "$32,400",
+        "Link": "https://bloons.fandom.com/wiki/Icicle_Impale"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Glue Soak",
+        "Path": "100",
+        "Price (Hard)": "$215",
+        "Link": "https://bloons.fandom.com/wiki/Glue_Soak"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Corrosive Glue",
+        "Path": "200",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Corrosive_Glue"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Bloon Dissolver",
+        "Path": "300",
+        "Price (Hard)": "$3,565",
+        "Link": "https://bloons.fandom.com/wiki/Bloon_Dissolver"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Bloon Liquefier",
+        "Path": "400",
+        "Price (Hard)": "$7,560",
+        "Link": "https://bloons.fandom.com/wiki/Bloon_Liquefier"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "The Bloon Solver",
+        "Path": "500",
+        "Price (Hard)": "$25,920",
+        "Link": "https://bloons.fandom.com/wiki/The_Bloon_Solver"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Bigger Globs",
+        "Path": "010",
+        "Price (Hard)": "$110",
+        "Link": "https://bloons.fandom.com/wiki/Bigger_Globs"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Glue Splatter",
+        "Path": "020",
+        "Price (Hard)": "$1,945",
+        "Link": "https://bloons.fandom.com/wiki/Glue_Splatter"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Glue Hose",
+        "Path": "030",
+        "Price (Hard)": "$3,510",
+        "Link": "https://bloons.fandom.com/wiki/Glue_Hose"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Glue Strike",
+        "Path": "040",
+        "Price (Hard)": "$3,780",
+        "Link": "https://bloons.fandom.com/wiki/Glue_Strike"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Glue Storm",
+        "Path": "050",
+        "Price (Hard)": "$16,200",
+        "Link": "https://bloons.fandom.com/wiki/Glue_Storm"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Stickier Glue",
+        "Path": "001",
+        "Price (Hard)": "$130",
+        "Link": "https://bloons.fandom.com/wiki/Stickier_Glue"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Stronger Glue",
+        "Path": "002",
+        "Price (Hard)": "$430",
+        "Link": "https://bloons.fandom.com/wiki/Stronger_Glue"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "MOAB Glue",
+        "Path": "003",
+        "Price (Hard)": "$3,455",
+        "Link": "https://bloons.fandom.com/wiki/MOAB_Glue"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Relentless Glue",
+        "Path": "004",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/Relentless_Glue"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Super Glue",
+        "Path": "005",
+        "Price (Hard)": "$37,800",
+        "Link": "https://bloons.fandom.com/wiki/Super_Glue"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Full Metal Jacket",
+        "Path": "100",
+        "Price (Hard)": "$380",
+        "Link": "https://bloons.fandom.com/wiki/Full_Metal_Jacket"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Large Calibre",
+        "Path": "200",
+        "Price (Hard)": "$1,620",
+        "Link": "https://bloons.fandom.com/wiki/Large_Calibre"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Deadly Precision",
+        "Path": "300",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/Deadly_Precision"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Maim MOAB",
+        "Path": "400",
+        "Price (Hard)": "$7,560",
+        "Link": "https://bloons.fandom.com/wiki/Maim_MOAB"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Cripple MOAB",
+        "Path": "500",
+        "Price (Hard)": "$43,200",
+        "Link": "https://bloons.fandom.com/wiki/Cripple_MOAB"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Night Vision Goggles",
+        "Path": "010",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Night_Vision_Goggles"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Shrapnel Shot",
+        "Path": "020",
+        "Price (Hard)": "$485",
+        "Link": "https://bloons.fandom.com/wiki/Shrapnel_Shot"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Bouncing Bullet",
+        "Path": "030",
+        "Price (Hard)": "$3,455",
+        "Link": "https://bloons.fandom.com/wiki/Bouncing_Bullet"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Supply Drop",
+        "Path": "040",
+        "Price (Hard)": "$7,775",
+        "Link": "https://bloons.fandom.com/wiki/Supply_Drop"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Elite Sniper",
+        "Path": "050",
+        "Price (Hard)": "$14,040",
+        "Link": "https://bloons.fandom.com/wiki/Elite_Sniper"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Faster Firing",
+        "Path": "001",
+        "Price (Hard)": "$430",
+        "Link": "https://bloons.fandom.com/wiki/Faster_Firing"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Even Faster Firing",
+        "Path": "002",
+        "Price (Hard)": "$430",
+        "Link": "https://bloons.fandom.com/wiki/Even_Faster_Firing"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Semi-Automatic",
+        "Path": "003",
+        "Price (Hard)": "$3,780",
+        "Link": "https://bloons.fandom.com/wiki/Semi-Automatic"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Full Auto Rifle",
+        "Path": "004",
+        "Price (Hard)": "$5,130",
+        "Link": "https://bloons.fandom.com/wiki/Full_Auto_Rifle"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Elite Defender",
+        "Path": "005",
+        "Price (Hard)": "$15,120",
+        "Link": "https://bloons.fandom.com/wiki/Elite_Defender"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Longer Range (Monkey Sub)",
+        "Path": "100",
+        "Price (Hard)": "$140",
+        "Link": "https://bloons.fandom.com/wiki/Longer_Range_(Monkey_Sub)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Advanced Intel",
+        "Path": "200",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Advanced_Intel"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Submerge and Support",
+        "Path": "300",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Submerge_and_Support"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Bloontonium Reactor",
+        "Path": "400",
+        "Price (Hard)": "$2,700",
+        "Link": "https://bloons.fandom.com/wiki/Bloontonium_Reactor"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Energizer",
+        "Path": "500",
+        "Price (Hard)": "$34,560",
+        "Link": "https://bloons.fandom.com/wiki/Energizer"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Barbed Darts",
+        "Path": "010",
+        "Price (Hard)": "$485",
+        "Link": "https://bloons.fandom.com/wiki/Barbed_Darts"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Heat-tipped Darts",
+        "Path": "020",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Heat-tipped_Darts"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Ballistic Missile (BTD6)",
+        "Path": "030",
+        "Price (Hard)": "$1,510",
+        "Link": "https://bloons.fandom.com/wiki/Ballistic_Missile_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "First Strike Capability (BTD6)",
+        "Path": "040",
+        "Price (Hard)": "$14,040",
+        "Link": "https://bloons.fandom.com/wiki/First_Strike_Capability_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Pre-Emptive Strike",
+        "Path": "050",
+        "Price (Hard)": "$34,560",
+        "Link": "https://bloons.fandom.com/wiki/Pre-Emptive_Strike"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Twin Guns",
+        "Path": "001",
+        "Price (Hard)": "$485",
+        "Link": "https://bloons.fandom.com/wiki/Twin_Guns"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Airburst Darts",
+        "Path": "002",
+        "Price (Hard)": "$1,080",
+        "Link": "https://bloons.fandom.com/wiki/Airburst_Darts"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Triple Guns",
+        "Path": "003",
+        "Price (Hard)": "$1,190",
+        "Link": "https://bloons.fandom.com/wiki/Triple_Guns"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Armor Piercing Darts",
+        "Path": "004",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/Armor_Piercing_Darts"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Sub Commander",
+        "Path": "005",
+        "Price (Hard)": "$27,000",
+        "Link": "https://bloons.fandom.com/wiki/Sub_Commander"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Faster Shooting",
+        "Path": "100",
+        "Price (Hard)": "$380",
+        "Link": "https://bloons.fandom.com/wiki/Faster_Shooting"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Double Shot (Monkey Buccaneer)",
+        "Path": "200",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Double_Shot_(Monkey_Buccaneer)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Destroyer",
+        "Path": "300",
+        "Price (Hard)": "$3,185",
+        "Link": "https://bloons.fandom.com/wiki/Destroyer"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Aircraft Carrier",
+        "Path": "400",
+        "Price (Hard)": "$9,720",
+        "Link": "https://bloons.fandom.com/wiki/Aircraft_Carrier"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Carrier Flagship",
+        "Path": "500",
+        "Price (Hard)": "$27,000",
+        "Link": "https://bloons.fandom.com/wiki/Carrier_Flagship"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Grape Shot",
+        "Path": "010",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Grape_Shot"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Hot Shot",
+        "Path": "020",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Hot_Shot"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Cannon Ship",
+        "Path": "030",
+        "Price (Hard)": "$970",
+        "Link": "https://bloons.fandom.com/wiki/Cannon_Ship"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Monkey Pirates",
+        "Path": "040",
+        "Price (Hard)": "$4,860",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Pirates"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Pirate Lord",
+        "Path": "050",
+        "Price (Hard)": "$22,680",
+        "Link": "https://bloons.fandom.com/wiki/Pirate_Lord"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Long Range",
+        "Path": "001",
+        "Price (Hard)": "$195",
+        "Link": "https://bloons.fandom.com/wiki/Long_Range"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Crow's Nest",
+        "Path": "002",
+        "Price (Hard)": "$430",
+        "Link": "https://bloons.fandom.com/wiki/Crow%27s_Nest"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Merchantman",
+        "Path": "003",
+        "Price (Hard)": "$2,485",
+        "Link": "https://bloons.fandom.com/wiki/Merchantman"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Favored Trades",
+        "Path": "004",
+        "Price (Hard)": "$5,940",
+        "Link": "https://bloons.fandom.com/wiki/Favored_Trades"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Trade Empire",
+        "Path": "005",
+        "Price (Hard)": "$24,840",
+        "Link": "https://bloons.fandom.com/wiki/Trade_Empire"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Rapid Fire",
+        "Path": "100",
+        "Price (Hard)": "$700",
+        "Link": "https://bloons.fandom.com/wiki/Rapid_Fire"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Lots More Darts",
+        "Path": "200",
+        "Price (Hard)": "$700",
+        "Link": "https://bloons.fandom.com/wiki/Lots_More_Darts"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Fighter Plane",
+        "Path": "300",
+        "Price (Hard)": "$1,080",
+        "Link": "https://bloons.fandom.com/wiki/Fighter_Plane"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Operation: Dart Storm",
+        "Path": "400",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/Operation:_Dart_Storm"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Sky Shredder",
+        "Path": "500",
+        "Price (Hard)": "$43,200",
+        "Link": "https://bloons.fandom.com/wiki/Sky_Shredder"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Exploding Pineapple",
+        "Path": "010",
+        "Price (Hard)": "$215",
+        "Link": "https://bloons.fandom.com/wiki/Exploding_Pineapple"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Spy Plane",
+        "Path": "020",
+        "Price (Hard)": "$380",
+        "Link": "https://bloons.fandom.com/wiki/Spy_Plane"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Bomber Ace",
+        "Path": "030",
+        "Price (Hard)": "$970",
+        "Link": "https://bloons.fandom.com/wiki/Bomber_Ace"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Ground Zero (BTD6)",
+        "Path": "040",
+        "Price (Hard)": "$15,120",
+        "Link": "https://bloons.fandom.com/wiki/Ground_Zero_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Tsar Bomba",
+        "Path": "050",
+        "Price (Hard)": "$37,800",
+        "Link": "https://bloons.fandom.com/wiki/Tsar_Bomba"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Sharper Darts",
+        "Path": "001",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Sharper_Darts"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Centered Path",
+        "Path": "002",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Centered_Path"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Neva-Miss Targeting",
+        "Path": "003",
+        "Price (Hard)": "$2,375",
+        "Link": "https://bloons.fandom.com/wiki/Neva-Miss_Targeting"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Spectre (BTD6)",
+        "Path": "004",
+        "Price (Hard)": "$25,920",
+        "Link": "https://bloons.fandom.com/wiki/Spectre_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Flying Fortress",
+        "Path": "005",
+        "Price (Hard)": "$129,600",
+        "Link": "https://bloons.fandom.com/wiki/Flying_Fortress"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Quad Darts",
+        "Path": "100",
+        "Price (Hard)": "$865",
+        "Link": "https://bloons.fandom.com/wiki/Quad_Darts"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Pursuit",
+        "Path": "200",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Pursuit"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Razor Rotors",
+        "Path": "300",
+        "Price (Hard)": "$1,890",
+        "Link": "https://bloons.fandom.com/wiki/Razor_Rotors"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Apache Dartship",
+        "Path": "400",
+        "Price (Hard)": "$21,170",
+        "Link": "https://bloons.fandom.com/wiki/Apache_Dartship"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Apache Prime",
+        "Path": "500",
+        "Price (Hard)": "$48,600",
+        "Link": "https://bloons.fandom.com/wiki/Apache_Prime"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Bigger Jets",
+        "Path": "010",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Bigger_Jets"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "IFR",
+        "Path": "020",
+        "Price (Hard)": "$650",
+        "Link": "https://bloons.fandom.com/wiki/IFR"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Downdraft",
+        "Path": "030",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/Downdraft"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Support Chinook",
+        "Path": "040",
+        "Price (Hard)": "$12,960",
+        "Link": "https://bloons.fandom.com/wiki/Support_Chinook"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Special Poperations",
+        "Path": "050",
+        "Price (Hard)": "$32,400",
+        "Link": "https://bloons.fandom.com/wiki/Special_Poperations"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Faster Darts (Heli Pilot)",
+        "Path": "001",
+        "Price (Hard)": "$270",
+        "Link": "https://bloons.fandom.com/wiki/Faster_Darts_(Heli_Pilot)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Faster Firing (Heli Pilot)",
+        "Path": "002",
+        "Price (Hard)": "$380",
+        "Link": "https://bloons.fandom.com/wiki/Faster_Firing_(Heli_Pilot)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "MOAB Shove",
+        "Path": "003",
+        "Price (Hard)": "$5,400",
+        "Link": "https://bloons.fandom.com/wiki/MOAB_Shove"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Comanche Defense",
+        "Path": "004",
+        "Price (Hard)": "$9,180",
+        "Link": "https://bloons.fandom.com/wiki/Comanche_Defense"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Comanche Commander",
+        "Path": "005",
+        "Price (Hard)": "$37,800",
+        "Link": "https://bloons.fandom.com/wiki/Comanche_Commander"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Bigger Blast",
+        "Path": "100",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Bigger_Blast"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Bloon Buster",
+        "Path": "200",
+        "Price (Hard)": "$700",
+        "Link": "https://bloons.fandom.com/wiki/Bloon_Buster"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Shell Shock",
+        "Path": "300",
+        "Price (Hard)": "$1,190",
+        "Link": "https://bloons.fandom.com/wiki/Shell_Shock"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "The Big One",
+        "Path": "400",
+        "Price (Hard)": "$8,640",
+        "Link": "https://bloons.fandom.com/wiki/The_Big_One"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "The Biggest One",
+        "Path": "500",
+        "Price (Hard)": "$30,240",
+        "Link": "https://bloons.fandom.com/wiki/The_Biggest_One"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Faster Reload (Mortar Monkey)",
+        "Path": "010",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Faster_Reload_(Mortar_Monkey)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Rapid Reload",
+        "Path": "020",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Rapid_Reload"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Heavy Shells",
+        "Path": "030",
+        "Price (Hard)": "$970",
+        "Link": "https://bloons.fandom.com/wiki/Heavy_Shells"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Artillery Battery",
+        "Path": "040",
+        "Price (Hard)": "$5,940",
+        "Link": "https://bloons.fandom.com/wiki/Artillery_Battery"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Pop and Awe",
+        "Path": "050",
+        "Price (Hard)": "$32,400",
+        "Link": "https://bloons.fandom.com/wiki/Pop_and_Awe"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Increased Accuracy",
+        "Path": "001",
+        "Price (Hard)": "$215",
+        "Link": "https://bloons.fandom.com/wiki/Increased_Accuracy"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Burny Stuff",
+        "Path": "002",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Burny_Stuff"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Signal Flare",
+        "Path": "003",
+        "Price (Hard)": "$755",
+        "Link": "https://bloons.fandom.com/wiki/Signal_Flare"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Shattering Shells",
+        "Path": "004",
+        "Price (Hard)": "$11,800",
+        "Link": "https://bloons.fandom.com/wiki/Shattering_Shells"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Blooncineration",
+        "Path": "005",
+        "Price (Hard)": "$48,600",
+        "Link": "https://bloons.fandom.com/wiki/Blooncineration"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Guided Magic",
+        "Path": "100",
+        "Price (Hard)": "$160",
+        "Link": "https://bloons.fandom.com/wiki/Guided_Magic"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Arcane Blast",
+        "Path": "200",
+        "Price (Hard)": "$650",
+        "Link": "https://bloons.fandom.com/wiki/Arcane_Blast"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Arcane Mastery",
+        "Path": "300",
+        "Price (Hard)": "$1,405",
+        "Link": "https://bloons.fandom.com/wiki/Arcane_Mastery"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Arcane Spike",
+        "Path": "400",
+        "Price (Hard)": "$11,770",
+        "Link": "https://bloons.fandom.com/wiki/Arcane_Spike"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Archmage",
+        "Path": "500",
+        "Price (Hard)": "$34,560",
+        "Link": "https://bloons.fandom.com/wiki/Archmage"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Fireball",
+        "Path": "010",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Fireball"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Wall of Fire",
+        "Path": "020",
+        "Price (Hard)": "$970",
+        "Link": "https://bloons.fandom.com/wiki/Wall_of_Fire"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Dragon's Breath",
+        "Path": "030",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/Dragon%27s_Breath"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Summon Phoenix",
+        "Path": "040",
+        "Price (Hard)": "$4,320",
+        "Link": "https://bloons.fandom.com/wiki/Summon_Phoenix"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Wizard Lord Phoenix",
+        "Path": "050",
+        "Price (Hard)": "$64,800",
+        "Link": "https://bloons.fandom.com/wiki/Wizard_Lord_Phoenix"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Intense Magic",
+        "Path": "001",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Intense_Magic"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Monkey Sense",
+        "Path": "002",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Sense"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Shimmer",
+        "Path": "003",
+        "Price (Hard)": "$1,945",
+        "Link": "https://bloons.fandom.com/wiki/Shimmer"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Necromancer: Unpopped Army",
+        "Path": "004",
+        "Price (Hard)": "$3,780",
+        "Link": "https://bloons.fandom.com/wiki/Necromancer:_Unpopped_Army"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Prince of Darkness",
+        "Path": "005",
+        "Price (Hard)": "$25,920",
+        "Link": "https://bloons.fandom.com/wiki/Prince_of_Darkness"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Laser Blasts",
+        "Path": "100",
+        "Price (Hard)": "$2,700",
+        "Link": "https://bloons.fandom.com/wiki/Laser_Blasts"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Plasma Vision (Bloons TD)",
+        "Path": "200",
+        "Price (Hard)": "$4,860",
+        "Link": "https://bloons.fandom.com/wiki/Plasma_Vision_(Bloons_TD)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Sun Avatar",
+        "Path": "300",
+        "Price (Hard)": "$23,825",
+        "Link": "https://bloons.fandom.com/wiki/Sun_Avatar"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Sun Temple",
+        "Path": "400",
+        "Price (Hard)": "$108,000",
+        "Link": "https://bloons.fandom.com/wiki/Sun_Temple"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "True Sun God",
+        "Path": "500",
+        "Price (Hard)": "$540,000",
+        "Link": "https://bloons.fandom.com/wiki/True_Sun_God"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Super Range",
+        "Path": "010",
+        "Price (Hard)": "$1,080",
+        "Link": "https://bloons.fandom.com/wiki/Super_Range"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Epic Range",
+        "Path": "020",
+        "Price (Hard)": "$1,510",
+        "Link": "https://bloons.fandom.com/wiki/Epic_Range"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Robo Monkey",
+        "Path": "030",
+        "Price (Hard)": "$9,720",
+        "Link": "https://bloons.fandom.com/wiki/Robo_Monkey"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Tech Terror",
+        "Path": "040",
+        "Price (Hard)": "$23,760",
+        "Link": "https://bloons.fandom.com/wiki/Tech_Terror"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "The Anti-Bloon",
+        "Path": "050",
+        "Price (Hard)": "$97,200",
+        "Link": "https://bloons.fandom.com/wiki/The_Anti-Bloon"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Knockback",
+        "Path": "001",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/Knockback"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Ultravision",
+        "Path": "002",
+        "Price (Hard)": "$1,295",
+        "Link": "https://bloons.fandom.com/wiki/Ultravision"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Dark Knight",
+        "Path": "003",
+        "Price (Hard)": "$5,940",
+        "Link": "https://bloons.fandom.com/wiki/Dark_Knight"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Dark Champion",
+        "Path": "004",
+        "Price (Hard)": "$64,800",
+        "Link": "https://bloons.fandom.com/wiki/Dark_Champion"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Legend of the Night",
+        "Path": "005",
+        "Price (Hard)": "$259,200",
+        "Link": "https://bloons.fandom.com/wiki/Legend_of_the_Night"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Ninja Discipline",
+        "Path": "100",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Ninja_Discipline"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Sharp Shurikens",
+        "Path": "200",
+        "Price (Hard)": "$380",
+        "Link": "https://bloons.fandom.com/wiki/Sharp_Shurikens"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Double Shot (Ninja Monkey)",
+        "Path": "300",
+        "Price (Hard)": "$920",
+        "Link": "https://bloons.fandom.com/wiki/Double_Shot_(Ninja_Monkey)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Bloonjitsu (BTD6)",
+        "Path": "400",
+        "Price (Hard)": "$2,970",
+        "Link": "https://bloons.fandom.com/wiki/Bloonjitsu_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Grandmaster Ninja",
+        "Path": "500",
+        "Price (Hard)": "$37,800",
+        "Link": "https://bloons.fandom.com/wiki/Grandmaster_Ninja"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Distraction",
+        "Path": "010",
+        "Price (Hard)": "$380",
+        "Link": "https://bloons.fandom.com/wiki/Distraction"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Counter-Espionage",
+        "Path": "020",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Counter-Espionage"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Shinobi Tactics",
+        "Path": "030",
+        "Price (Hard)": "$970",
+        "Link": "https://bloons.fandom.com/wiki/Shinobi_Tactics"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Bloon Sabotage",
+        "Path": "040",
+        "Price (Hard)": "$5,400",
+        "Link": "https://bloons.fandom.com/wiki/Bloon_Sabotage"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Grand Saboteur",
+        "Path": "050",
+        "Price (Hard)": "$23,760",
+        "Link": "https://bloons.fandom.com/wiki/Grand_Saboteur"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Seeking Shuriken",
+        "Path": "001",
+        "Price (Hard)": "$270",
+        "Link": "https://bloons.fandom.com/wiki/Seeking_Shuriken"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Caltrops",
+        "Path": "002",
+        "Price (Hard)": "$430",
+        "Link": "https://bloons.fandom.com/wiki/Caltrops"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Flash Bomb",
+        "Path": "003",
+        "Price (Hard)": "$2,970",
+        "Link": "https://bloons.fandom.com/wiki/Flash_Bomb"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Sticky Bomb",
+        "Path": "004",
+        "Price (Hard)": "$4,860",
+        "Link": "https://bloons.fandom.com/wiki/Sticky_Bomb"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Master Bomber",
+        "Path": "005",
+        "Price (Hard)": "$43,200",
+        "Link": "https://bloons.fandom.com/wiki/Master_Bomber"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Larger Potions",
+        "Path": "100",
+        "Price (Hard)": "$270",
+        "Link": "https://bloons.fandom.com/wiki/Larger_Potions"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Acidic Mixture Dip",
+        "Path": "200",
+        "Price (Hard)": "$380",
+        "Link": "https://bloons.fandom.com/wiki/Acidic_Mixture_Dip"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Berserker Brew",
+        "Path": "300",
+        "Price (Hard)": "$1,350",
+        "Link": "https://bloons.fandom.com/wiki/Berserker_Brew"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Stronger Stimulant",
+        "Path": "400",
+        "Price (Hard)": "$2,700",
+        "Link": "https://bloons.fandom.com/wiki/Stronger_Stimulant"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Permanent Brew",
+        "Path": "500",
+        "Price (Hard)": "$64,800",
+        "Link": "https://bloons.fandom.com/wiki/Permanent_Brew"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Stronger Acid",
+        "Path": "010",
+        "Price (Hard)": "$270",
+        "Link": "https://bloons.fandom.com/wiki/Stronger_Acid"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Perishing Potions",
+        "Path": "020",
+        "Price (Hard)": "$515",
+        "Link": "https://bloons.fandom.com/wiki/Perishing_Potions"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Unstable Concoction",
+        "Path": "030",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/Unstable_Concoction"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Transforming Tonic",
+        "Path": "040",
+        "Price (Hard)": "$4,860",
+        "Link": "https://bloons.fandom.com/wiki/Transforming_Tonic"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Total Transformation",
+        "Path": "050",
+        "Price (Hard)": "$48,600",
+        "Link": "https://bloons.fandom.com/wiki/Total_Transformation"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Acid Pool",
+        "Path": "001",
+        "Price (Hard)": "$650",
+        "Link": "https://bloons.fandom.com/wiki/Acid_Pool"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Faster Throwing",
+        "Path": "002",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Faster_Throwing"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Lead To Gold",
+        "Path": "003",
+        "Price (Hard)": "$1,080",
+        "Link": "https://bloons.fandom.com/wiki/Lead_To_Gold"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Rubber to Gold",
+        "Path": "004",
+        "Price (Hard)": "$2,970",
+        "Link": "https://bloons.fandom.com/wiki/Rubber_to_Gold"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Bloon Master Alchemist",
+        "Path": "005",
+        "Price (Hard)": "$43,200",
+        "Link": "https://bloons.fandom.com/wiki/Bloon_Master_Alchemist"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Hard Thorns",
+        "Path": "100",
+        "Price (Hard)": "$270",
+        "Link": "https://bloons.fandom.com/wiki/Hard_Thorns"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Heart of Thunder",
+        "Path": "200",
+        "Price (Hard)": "$1,080",
+        "Link": "https://bloons.fandom.com/wiki/Heart_of_Thunder"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Druid of Storm",
+        "Path": "300",
+        "Price (Hard)": "$2,160",
+        "Link": "https://bloons.fandom.com/wiki/Druid_of_Storm"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Ball Lightning",
+        "Path": "400",
+        "Price (Hard)": "$6,480",
+        "Link": "https://bloons.fandom.com/wiki/Ball_Lightning"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Superstorm",
+        "Path": "500",
+        "Price (Hard)": "$97,200",
+        "Link": "https://bloons.fandom.com/wiki/Superstorm"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Thorn Swarm",
+        "Path": "010",
+        "Price (Hard)": "$270",
+        "Link": "https://bloons.fandom.com/wiki/Thorn_Swarm"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Heart of Oak",
+        "Path": "020",
+        "Price (Hard)": "$380",
+        "Link": "https://bloons.fandom.com/wiki/Heart_of_Oak"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Druid of Jungle",
+        "Path": "030",
+        "Price (Hard)": "$1,025",
+        "Link": "https://bloons.fandom.com/wiki/Druid_of_Jungle"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Jungle's Bounty",
+        "Path": "040",
+        "Price (Hard)": "$5,400",
+        "Link": "https://bloons.fandom.com/wiki/Jungle%27s_Bounty"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Spirit of the Forest",
+        "Path": "050",
+        "Price (Hard)": "$54,000",
+        "Link": "https://bloons.fandom.com/wiki/Spirit_of_the_Forest"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Druidic Reach",
+        "Path": "001",
+        "Price (Hard)": "$110",
+        "Link": "https://bloons.fandom.com/wiki/Druidic_Reach"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Heart of Vengeance",
+        "Path": "002",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Heart_of_Vengeance"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Druid of Wrath",
+        "Path": "003",
+        "Price (Hard)": "$650",
+        "Link": "https://bloons.fandom.com/wiki/Druid_of_Wrath"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Poplust",
+        "Path": "004",
+        "Price (Hard)": "$2,700",
+        "Link": "https://bloons.fandom.com/wiki/Poplust"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Avatar of Wrath",
+        "Path": "005",
+        "Price (Hard)": "$48,600",
+        "Link": "https://bloons.fandom.com/wiki/Avatar_of_Wrath"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Increased Production (Banana Farm)",
+        "Path": "100",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Increased_Production_(Banana_Farm)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Greater Production",
+        "Path": "200",
+        "Price (Hard)": "$650",
+        "Link": "https://bloons.fandom.com/wiki/Greater_Production"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Banana Plantation",
+        "Path": "300",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/Banana_Plantation"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Banana Research Facility",
+        "Path": "400",
+        "Price (Hard)": "$20,520",
+        "Link": "https://bloons.fandom.com/wiki/Banana_Research_Facility"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Banana Central",
+        "Path": "500",
+        "Price (Hard)": "$108,000",
+        "Link": "https://bloons.fandom.com/wiki/Banana_Central"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Long Life Bananas",
+        "Path": "010",
+        "Price (Hard)": "$325",
+        "Link": "https://bloons.fandom.com/wiki/Long_Life_Bananas"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Valuable Bananas",
+        "Path": "020",
+        "Price (Hard)": "$865",
+        "Link": "https://bloons.fandom.com/wiki/Valuable_Bananas"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Monkey Bank (BTD6)",
+        "Path": "030",
+        "Price (Hard)": "$3,565",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Bank_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "IMF Loan",
+        "Path": "040",
+        "Price (Hard)": "$8,100",
+        "Link": "https://bloons.fandom.com/wiki/IMF_Loan"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Monkey-Nomics",
+        "Path": "050",
+        "Price (Hard)": "$108,000",
+        "Link": "https://bloons.fandom.com/wiki/Monkey-Nomics"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "EZ Collect",
+        "Path": "001",
+        "Price (Hard)": "$270",
+        "Link": "https://bloons.fandom.com/wiki/EZ_Collect"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Banana Salvage",
+        "Path": "002",
+        "Price (Hard)": "$215",
+        "Link": "https://bloons.fandom.com/wiki/Banana_Salvage"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Marketplace",
+        "Path": "003",
+        "Price (Hard)": "$3,130",
+        "Link": "https://bloons.fandom.com/wiki/Marketplace"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Central Market",
+        "Path": "004",
+        "Price (Hard)": "$16,200",
+        "Link": "https://bloons.fandom.com/wiki/Central_Market"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Monkey Wall Street",
+        "Path": "005",
+        "Price (Hard)": "$64,800",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Wall_Street"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Bigger Stacks",
+        "Path": "100",
+        "Price (Hard)": "$650",
+        "Link": "https://bloons.fandom.com/wiki/Bigger_Stacks"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "White Hot Spikes",
+        "Path": "200",
+        "Price (Hard)": "$865",
+        "Link": "https://bloons.fandom.com/wiki/White_Hot_Spikes"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Spiked Balls",
+        "Path": "300",
+        "Price (Hard)": "$2,375",
+        "Link": "https://bloons.fandom.com/wiki/Spiked_Balls"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Spiked Mines",
+        "Path": "400",
+        "Price (Hard)": "$12,960",
+        "Link": "https://bloons.fandom.com/wiki/Spiked_Mines"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Super Mines",
+        "Path": "500",
+        "Price (Hard)": "$189,000",
+        "Link": "https://bloons.fandom.com/wiki/Super_Mines"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Faster Production",
+        "Path": "010",
+        "Price (Hard)": "$755",
+        "Link": "https://bloons.fandom.com/wiki/Faster_Production"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Even Faster Production",
+        "Path": "020",
+        "Price (Hard)": "$970",
+        "Link": "https://bloons.fandom.com/wiki/Even_Faster_Production"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "MOAB SHREDR",
+        "Path": "030",
+        "Price (Hard)": "$2,700",
+        "Link": "https://bloons.fandom.com/wiki/MOAB_SHREDR"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Spike Storm (BTD6)",
+        "Path": "040",
+        "Price (Hard)": "$5,400",
+        "Link": "https://bloons.fandom.com/wiki/Spike_Storm_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Carpet Of Spikes",
+        "Path": "050",
+        "Price (Hard)": "$45,360",
+        "Link": "https://bloons.fandom.com/wiki/Carpet_Of_Spikes"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Long Reach",
+        "Path": "001",
+        "Price (Hard)": "$160",
+        "Link": "https://bloons.fandom.com/wiki/Long_Reach"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Smart Spikes",
+        "Path": "002",
+        "Price (Hard)": "$430",
+        "Link": "https://bloons.fandom.com/wiki/Smart_Spikes"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Long Life Spikes",
+        "Path": "003",
+        "Price (Hard)": "$1,510",
+        "Link": "https://bloons.fandom.com/wiki/Long_Life_Spikes"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Deadly Spikes",
+        "Path": "004",
+        "Price (Hard)": "$3,780",
+        "Link": "https://bloons.fandom.com/wiki/Deadly_Spikes"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Perma-Spike",
+        "Path": "005",
+        "Price (Hard)": "$32,400",
+        "Link": "https://bloons.fandom.com/wiki/Perma-Spike"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Bigger Radius",
+        "Path": "100",
+        "Price (Hard)": "$430",
+        "Link": "https://bloons.fandom.com/wiki/Bigger_Radius"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Jungle Drums",
+        "Path": "200",
+        "Price (Hard)": "$1,620",
+        "Link": "https://bloons.fandom.com/wiki/Jungle_Drums"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Primary Training",
+        "Path": "300",
+        "Price (Hard)": "$865",
+        "Link": "https://bloons.fandom.com/wiki/Primary_Training"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Primary Mentoring",
+        "Path": "400",
+        "Price (Hard)": "$2,700",
+        "Link": "https://bloons.fandom.com/wiki/Primary_Mentoring"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Primary Expertise",
+        "Path": "500",
+        "Price (Hard)": "$27,000",
+        "Link": "https://bloons.fandom.com/wiki/Primary_Expertise"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Grow Blocker",
+        "Path": "010",
+        "Price (Hard)": "$270",
+        "Link": "https://bloons.fandom.com/wiki/Grow_Blocker"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Radar Scanner",
+        "Path": "020",
+        "Price (Hard)": "$2,160",
+        "Link": "https://bloons.fandom.com/wiki/Radar_Scanner"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Monkey Intelligence Bureau",
+        "Path": "030",
+        "Price (Hard)": "$8,100",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Intelligence_Bureau"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Call To Arms",
+        "Path": "040",
+        "Price (Hard)": "$21,600",
+        "Link": "https://bloons.fandom.com/wiki/Call_To_Arms"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Homeland Defense",
+        "Path": "050",
+        "Price (Hard)": "$43,200",
+        "Link": "https://bloons.fandom.com/wiki/Homeland_Defense"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Monkey Business",
+        "Path": "001",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Business"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Monkey Commerce",
+        "Path": "002",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Commerce"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Monkey Town (BTD6)",
+        "Path": "003",
+        "Price (Hard)": "$10,800",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Town_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Monkey City",
+        "Path": "004",
+        "Price (Hard)": "$3,240",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_City"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Monkeyopolis",
+        "Path": "005",
+        "Price (Hard)": "$5,400 / Farm",
+        "Link": "https://bloons.fandom.com/wiki/Monkeyopolis"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Sentry Gun",
+        "Path": "100",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Sentry_Gun"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Faster Engineering",
+        "Path": "200",
+        "Price (Hard)": "$430",
+        "Link": "https://bloons.fandom.com/wiki/Faster_Engineering"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Sprockets",
+        "Path": "300",
+        "Price (Hard)": "$565",
+        "Link": "https://bloons.fandom.com/wiki/Sprockets"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Sentry Expert",
+        "Path": "400",
+        "Price (Hard)": "$3025",
+        "Link": "https://bloons.fandom.com/wiki/Sentry_Expert"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Sentry Paragon",
+        "Path": "500",
+        "Price (Hard)": "$34560",
+        "Link": "https://bloons.fandom.com/wiki/Sentry_Paragon"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Larger Service Area",
+        "Path": "010",
+        "Price (Hard)": "$595",
+        "Link": "https://bloons.fandom.com/wiki/Larger_Service_Area"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Deconstruction",
+        "Path": "020",
+        "Price (Hard)": "$215",
+        "Link": "https://bloons.fandom.com/wiki/Deconstruction"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Cleansing Foam",
+        "Path": "030",
+        "Price (Hard)": "$865",
+        "Link": "https://bloons.fandom.com/wiki/Cleansing_Foam"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Overclock (BTD6)",
+        "Path": "040",
+        "Price (Hard)": "$14580",
+        "Link": "https://bloons.fandom.com/wiki/Overclock_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Ultraboost",
+        "Path": "050",
+        "Price (Hard)": "$129600",
+        "Link": "https://bloons.fandom.com/wiki/Ultraboost"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Oversize Nails",
+        "Path": "001",
+        "Price (Hard)": "$485",
+        "Link": "https://bloons.fandom.com/wiki/Oversize_Nails"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Pin",
+        "Path": "002",
+        "Price (Hard)": "$235",
+        "Link": "https://bloons.fandom.com/wiki/Pin"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Double Gun",
+        "Path": "003",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Double_Gun"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Bloon Trap (BTD6)",
+        "Path": "004",
+        "Price (Hard)": "$3780",
+        "Link": "https://bloons.fandom.com/wiki/Bloon_Trap_(BTD6)"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "XXXL Trap",
+        "Path": "005",
+        "Price (Hard)": "$64800",
+        "Link": "https://bloons.fandom.com/wiki/XXXL_Trap"
+    }
+]

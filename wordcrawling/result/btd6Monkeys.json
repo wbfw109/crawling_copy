@@ -1,0 +1,191 @@
+[
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Dart Monkey",
+        "UpgradedName": "Dart Monkey",
+        "Path": "000",
+        "Price (Hard)": "$215",
+        "Link": "https://bloons.fandom.com/wiki/Dart_Monkey#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Boomerang Monkey",
+        "UpgradedName": "Boomerang Monkey",
+        "Path": "000",
+        "Price (Hard)": "$350",
+        "Link": "https://bloons.fandom.com/wiki/Boomerang_Monkey#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Bomb Shooter",
+        "UpgradedName": "Bomb Shooter",
+        "Path": "000",
+        "Price (Hard)": "$650",
+        "Link": "https://bloons.fandom.com/wiki/Bomb_Shooter#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Tack Shooter",
+        "UpgradedName": "Tack Shooter",
+        "Path": "000",
+        "Price (Hard)": "$300",
+        "Link": "https://bloons.fandom.com/wiki/Tack_Shooter#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Ice Monkey",
+        "UpgradedName": "Ice Monkey",
+        "Path": "000",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Ice_Monkey#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Primary",
+        "Name": "Glue Gunner",
+        "UpgradedName": "Glue Gunner",
+        "Path": "000",
+        "Price (Hard)": "$295",
+        "Link": "https://bloons.fandom.com/wiki/Glue_Gunner#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Sniper Monkey",
+        "UpgradedName": "Sniper Monkey",
+        "Path": "000",
+        "Price (Hard)": "$380",
+        "Link": "https://bloons.fandom.com/wiki/Sniper_Monkey#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Sub",
+        "UpgradedName": "Monkey Sub",
+        "Path": "000",
+        "Price (Hard)": "$350",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Sub#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Buccaneer",
+        "UpgradedName": "Monkey Buccaneer",
+        "Path": "000",
+        "Price (Hard)": "$595",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Buccaneer#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Monkey Ace",
+        "UpgradedName": "Monkey Ace",
+        "Path": "000",
+        "Price (Hard)": "$865",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Ace#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Heli Pilot",
+        "UpgradedName": "Heli Pilot",
+        "Path": "000",
+        "Price (Hard)": "$1730",
+        "Link": "https://bloons.fandom.com/wiki/Heli_Pilot#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Military",
+        "Name": "Mortar Monkey",
+        "UpgradedName": "Mortar Monkey",
+        "Path": "000",
+        "Price (Hard)": "$810",
+        "Link": "https://bloons.fandom.com/wiki/Mortar_Monkey#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Wizard Monkey",
+        "UpgradedName": "Wizard Monkey",
+        "Path": "000",
+        "Price (Hard)": "$485",
+        "Link": "https://bloons.fandom.com/wiki/Wizard_Monkey#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Super Monkey",
+        "UpgradedName": "Super Monkey",
+        "Path": "000",
+        "Price (Hard)": "$2700",
+        "Link": "https://bloons.fandom.com/wiki/Super_Monkey#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Ninja Monkey",
+        "UpgradedName": "Ninja Monkey",
+        "Path": "000",
+        "Price (Hard)": "$540",
+        "Link": "https://bloons.fandom.com/wiki/Ninja_Monkey#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Alchemist",
+        "UpgradedName": "Alchemist",
+        "Path": "000",
+        "Price (Hard)": "$595",
+        "Link": "https://bloons.fandom.com/wiki/Alchemist#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Magic",
+        "Name": "Druid",
+        "UpgradedName": "Druid",
+        "Path": "000",
+        "Price (Hard)": "$460",
+        "Link": "https://bloons.fandom.com/wiki/Druid#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Banana Farm",
+        "UpgradedName": "Banana Farm",
+        "Path": "000",
+        "Price (Hard)": "$1350",
+        "Link": "https://bloons.fandom.com/wiki/Banana_Farm#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Spike Factory",
+        "UpgradedName": "Spike Factory",
+        "Path": "000",
+        "Price (Hard)": "$865",
+        "Link": "https://bloons.fandom.com/wiki/Spike_Factory#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Village",
+        "UpgradedName": "Monkey Village",
+        "Path": "000",
+        "Price (Hard)": "$1295",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Village#Bloons_Tower_Defense_6"
+    },
+    {
+        "Type": "Monkey",
+        "SubType": "Support",
+        "Name": "Monkey Engineer",
+        "UpgradedName": "Monkey Engineer",
+        "Path": "000",
+        "Price (Hard)": "$485",
+        "Link": "https://bloons.fandom.com/wiki/Monkey_Engineer#Bloons_Tower_Defense_6"
+    }
+]
