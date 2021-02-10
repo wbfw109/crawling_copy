@@ -1,7 +1,6 @@
 # **Word Crawling**
 
-
-
+#
 ## Purposes
 ### 1. Select Python Virtual environment
     virtualenv, venv, Anaconda, pipenv
@@ -18,13 +17,13 @@
         [Wikipedia] (https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
 
     - pipenv
-      It specializes in version control and compatibility of packages. It can show your dependency graph.
-      So I select the pipenv
+      It specializes in version control and compatibility of packages. It can show my dependency graph.
+      So I select the pipenv.
       //
       Reference
         [PyPI] (https://pypi.org/project/pipenv/)
 
-
+#
 ### 2. Crawling in en.wiktionary
     1. Static page
         Crawling on extension .xml file. The amount of data in en.wiktionary is very large.
@@ -36,10 +35,10 @@
         Files in "src/test" is main code for this.
 
     2. Dynamic page
-        Crawling Using Selenium and ChromDriver. For this, I used the site of the BTD6 game.
+        Crawling Using Selenium and ChromeDriver. For this, I used the site of the BTD6 game.
         Files in "src/etc" is main code for this.
     
-
+#
 ### 3. Code arrangement
     1. Code formatter
       - autopep8, yapf, black
@@ -54,7 +53,7 @@
       - Pylint, Flake8
         I choose this because Flake8 is better at catching the error by searching several comments from the community site. 
 
-
+#
 ### 4. Documentation
     I learned that documentation for maintenance is a very important process.
     There are several formats for documentation. 
@@ -65,3 +64,7 @@
         [Compare_Documentation_Format] (https://stackoverflow.com/questions/3898572/what-is-the-standard-python-docstring-format)
 
 
+#
+#
+## Example code
+:::image type="content" source="wordcrawling/rsrc/README-example.png" alt-text="example code":::
