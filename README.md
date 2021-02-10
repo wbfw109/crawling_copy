@@ -1,4 +1,5 @@
 # Word Crawling
+// This is Copy from my GitLab project
 
 ## Index
 
@@ -85,4 +86,7 @@ virtualenv, venv, Anaconda, pipenv
 #
 ## Example code
 
-![example code](wordcrawling/rsrc/README-example.png)
+![example code](wordcrawling/rsrc/README-example_(1).png)
+
+**Result**
+![example code](wordcrawling/rsrc/README-example_(2).png)
