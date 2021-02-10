@@ -67,4 +67,4 @@
 #
 #
 ## Example code
-:::image type="content" source="wordcrawling/rsrc/README-example.png" alt-text="example code":::
+![example code](wordcrawling/rsrc/README-example.png)
