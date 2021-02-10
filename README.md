@@ -26,7 +26,8 @@
 #
 ### 2. Crawling in en.wiktionary
     1. Static page
-        Crawling on extension .xml file. The amount of data in en.wiktionary is very large.
+        Crawling on extension .xml file. I used lxml library wrapped in C language for fast processing speed.
+        The amount of data in en.wiktionary is very large.
         They distributed as xml file separately so I used them. 
         However, since it exceeds 10GB, I made a demo version file and tested it. 
         I knew I had to split the file in order to process quickly with multi-threading.
