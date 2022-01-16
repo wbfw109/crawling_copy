@@ -15,19 +15,19 @@
 virtualenv, venv, Anaconda, pipenv
 
 - virtualenv
-  Legacy library that has been used since python 2. 
+  > Legacy library that has been used since python 2. 
 
 - venv
-  A library included in the default module since python 3.3 
+  > A library included in the default module since python 3.3 
 
 - Anaconda
-  A distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.)
+  > A distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.)
   //
   Reference
     [Wikipedia] (<https://en.wikipedia.org/wiki/Anaconda_(Python_distribution>))
 
 - pipenv
-  It specializes in version control and compatibility of packages. It can show my dependency graph.
+  > It specializes in version control and compatibility of packages. It can show my dependency graph.
   So I select the pipenv.
   //
   Reference
